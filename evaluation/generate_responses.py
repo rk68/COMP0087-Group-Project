@@ -1,11 +1,12 @@
 from datasets import load_dataset
 import ollama
 import json
+from tqdm import tqdm 
 
 # Configuration
 dataset_name = "aqua_rat"
 model_name = "wizard-math"
-num_samples = 30  # Specify the number of samples to test
+num_samples = 10  # Specify the number of samples to test
 
 prompt_instruction = "You must indicate the correct answer by stating 'The correct answer is [LETTER]'. You must use that format."
 
@@ -14,7 +15,8 @@ dataset = load_dataset(dataset_name, split='test')
 
 responses = []
 
-for i in range(min(num_samples, len(dataset))):  # Ensure not to exceed dataset length
+# Use tqdm for the loading bar, wrapping the range function with tqdm
+for i in tqdm(range(min(num_samples, len(dataset))), desc="Generating Responses"):  # Ensure not to exceed dataset length
     # Extracting the prompt and options
     prompt = dataset[i]['question']
     options = dataset[i]['options']

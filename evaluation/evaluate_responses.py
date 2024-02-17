@@ -14,7 +14,7 @@ predictions = []
 correct_answers = []
 
 # Enhanced regex pattern to capture various phrasings of the correct answer
-regex_pattern = r"(?:The correct answer is|The answer is:)\s*\[?([A-E])\]?"
+regex_pattern = r"(?:The correct answer is|The answer is|answer is|answer could be)\s*:? ?\[?([A-E])\]?"
 
 for item in data:
     # Use the enhanced regex to extract the letter of the correct answer from the response
@@ -35,8 +35,6 @@ for item in data:
 # Calculate the exact match score
 results = exact_match.compute(predictions=predictions, references=correct_answers)
 em_score = results["exact_match"]
-
-# Since EM score is not to be included in the JSON, we skip adding it to each item
 
 # Save the evaluation results (without the EM score)
 with open('evaluation_results.json', 'w') as f:
