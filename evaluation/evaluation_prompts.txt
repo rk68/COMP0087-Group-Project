@@ -1,0 +1,31 @@
+On cmd line use:
+python terminal-eval-teacher-llm.py
+
+
+X inputs:
+- Dataset name
+- Teacher LLM name
+- Number of points you want sampled
+- Name of database which stores your results (give it a meaningful name like: 'wizard-math_aqua-rat_50.db' for a db that'll use aqua-rat with wizard maths for 50 data points)
+
+
+
+Datasets (from HF):
+- aqua_rat
+
+
+Teacher LLM names (from Ollama):
+#### have you downloaded in on the cmd line first using "ollama run <llm-name>"
+- wizard-math:7b
+- deepseek-llm:7b
+
+
+--------------------------------------------------------
+
+
+deep-seek prompt:
+Below is a question and the multiple choice options. Write a response that appropriately completes the request.\n\n### Question: {prompt}\n Options: {options_text}\n\n### Response: Let's think step by step. At the end of the explanation write 'The answer is: '
+
+
+wizard-math prompt:
+Below is a question and the multiple choice options. Write a response that appropriately completes the request.\n\n### Question: {prompt}\n Options: {options_text}\n\n### Response: Let's think step by step. 
