@@ -29,3 +29,8 @@ Below is a question and the multiple choice options. Write a response that appro
 
 wizard-math prompt:
 Below is a question and the multiple choice options. Write a response that appropriately completes the request.\n\n### Question: {prompt}\n Options: {options_text}\n\n### Response: Let's think step by step. 
+
+
+gsm8k prompt:
+
+additional_prompt = "Answer the following question. At the end of your response, clearly state your answer in the format 'The answer is [value]' where the value is the numeric answer.\n"
