@@ -8,6 +8,7 @@ import numpy as np
 from functools import partial
 import argparse
 from peft import LoraModel
+from collections import Counter
 
 def preprocess_aquarat(examples, tokenizer):
     questions_and_options = [
@@ -38,48 +39,62 @@ def evaluate_model_accuracy(model, tokenizer, dataset):
     correct = 0
     total = len(dataset)
     perc = 0.25
+    model_answers = []
+    letters = []
     for i, (input, answer) in enumerate(zip(dataset['input_ids'], dataset['answers'])):
 
         pred_answer = generate_answer(model, tokenizer, input)
         #print(pred_answer)
         #print(answer)
         # Compare predicted answer to the actual answer
+        letters.append(pred_answer[0])
+        model_answers.append((tokenizer.decode(input, skip_special_tokens=True), answer, pred_answer))
         if pred_answer == answer:
             correct += 1
         
         if (i+1)/len(dataset) > perc:
-            print(f'Testing... {np.round(perc*100, 2)}%')
+            print(f'Testing...  {np.round(perc*100, 2)}%')
             perc += 0.25
     print(f'Testing... 100.0%')
     accuracy = correct / total
-    return accuracy
+    return accuracy, model_answers, letters
 
 def main():
 
     parser = argparse.ArgumentParser()
     parser.add_argument("--model_name", type=str, default="full_finetune_t5-small_custom1000", help="Path of model to test")
     parser.add_argument("--base_model", type=str, default="t5-small", help="Base model")
-    parser.add_argument("--dataset", type=str, default="aqua_rat", help="Dataset to trtestain on")
+    parser.add_argument("--base_model_path", type=str, default="google-t5/t5-small", help="Base model path")
+    parser.add_argument("--dataset", type=str, default="aqua_rat", help="Dataset to test on")
+    parser.add_argument("--print_answers",action='store_true', default="aqua_rat", help="If set, print example answers")
     args = parser.parse_args()
 
-    base_model = 'google-t5/' + args.base_model
-    if args.model_name == 't5-small' or args.model_name == 't5-base':
-        model_name = base_model
+    base_model_path = args.base_model_path
+    if args.model_name == 't5-small' or args.model_name == 't5-base' or args.model_name == 'flan-t5-base':
+        model_name = base_model_path
     else:
         model_name = './'+ args.base_model+'/' + args.model_name
     dataset = args.dataset
     print(model_name)
     model =  T5ForConditionalGeneration.from_pretrained(model_name)
-    tokenizer = T5Tokenizer.from_pretrained(base_model)
+    tokenizer = T5Tokenizer.from_pretrained(base_model_path)
     test_data = load_dataset(dataset, split='test')
 
     preprocess_with_tokenizer = partial(preprocess_aquarat, tokenizer=tokenizer)
     test_data_proc = test_data.map(preprocess_with_tokenizer, batched=True)
 
     print('\nTesting ' + args.model_name + ' on ' + dataset)
-    accuracy = evaluate_model_accuracy(model, tokenizer, test_data_proc)
+    accuracy, model_answers, letters = evaluate_model_accuracy(model, tokenizer, test_data_proc)
 
     print(f'\nAccuracy: {np.round(accuracy, 4)}')
+
+    print(Counter(letters))
+
+    for i in range(20, 25):
+        case = model_answers[i]
+        print(f'\nQuestion: {case[0]}')
+        print(f'Correct Answer: {case[1]}')
+        print(f'Model Answer: {case[2]}')
 
 if __name__ == '__main__':
     main()
