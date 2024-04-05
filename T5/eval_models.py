@@ -1,10 +1,13 @@
 from transformers import (
     T5Tokenizer, 
-    T5ForConditionalGeneration
+    T5ForConditionalGeneration,
+    AutoModelForSeq2SeqLM
 )
 from datasets import load_dataset
 import numpy as np
 from functools import partial
+import argparse
+from peft import LoraModel
 
 def preprocess_aquarat(examples, tokenizer):
     questions_and_options = [
@@ -52,39 +55,31 @@ def evaluate_model_accuracy(model, tokenizer, dataset):
     return accuracy
 
 def main():
-    base_model_path = 'google-t5/t5-small'
-    base_model = T5ForConditionalGeneration.from_pretrained(base_model_path)
-    full_finetuned_model = T5ForConditionalGeneration.from_pretrained('./models/full_finetune_t5-small_custom')
-    lora_finetuned_model = T5ForConditionalGeneration.from_pretrained('./models/lora_finetune_t5-small_custom')
-    kd_full_finetuned_model = T5ForConditionalGeneration.from_pretrained('./models/kd_full_finetune_t5-small_custom')
-    tokenizer = T5Tokenizer.from_pretrained(base_model_path)
 
-    test_data_name = 'aqua_rat'
-    test_data = load_dataset(test_data_name, split='test')
-    test_data = test_data.shuffle(seed=42).select(range(50))
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--model_name", type=str, default="full_finetune_t5-small_custom1000", help="Path of model to test")
+    parser.add_argument("--base_model", type=str, default="t5-small", help="Base model")
+    parser.add_argument("--dataset", type=str, default="aqua_rat", help="Dataset to trtestain on")
+    args = parser.parse_args()
+
+    base_model = 'google-t5/' + args.base_model
+    if args.model_name == 't5-small' or args.model_name == 't5-base':
+        model_name = base_model
+    else:
+        model_name = './'+ args.base_model+'/' + args.model_name
+    dataset = args.dataset
+    print(model_name)
+    model =  T5ForConditionalGeneration.from_pretrained(model_name)
+    tokenizer = T5Tokenizer.from_pretrained(base_model)
+    test_data = load_dataset(dataset, split='test')
+
     preprocess_with_tokenizer = partial(preprocess_aquarat, tokenizer=tokenizer)
     test_data_proc = test_data.map(preprocess_with_tokenizer, batched=True)
 
-    # print('Testing T5-small on AquaRat...')
-    # base_model_accuracy = evaluate_model_accuracy(base_model, tokenizer, test_data_proc)
-    # print(f'T5_small AquaRat accuracy: {base_model_accuracy}')
+    print('\nTesting ' + args.model_name + ' on ' + dataset)
+    accuracy = evaluate_model_accuracy(model, tokenizer, test_data_proc)
 
-    # print('\nTesting Full-finetuned model on AquaRat...')
-    # fill_finetuned_model_accuracy = evaluate_model_accuracy(full_finetuned_model, tokenizer, test_data_proc)
-    # print(f'Full-finetuned model AquaRat accuracy: {fill_finetuned_model_accuracy}')
-
-    # print('\nTesting Lora-finetuned model on AquaRat...')
-    # lora_finetuned_model_accuracy = evaluate_model_accuracy(lora_finetuned_model, tokenizer, test_data_proc)
-    # print(f'Lora-finetuned model AquaRat accuracy: {lora_finetuned_model_accuracy}')
-
-    print('\nTesting Knowledge Distillation Full-fintuned model on AquaRat...')
-    kd_full_finetuned_model_accuracy = evaluate_model_accuracy(kd_full_finetuned_model, tokenizer, test_data_proc)
-    print(f'Knowledge Distillation Full-fintuned model AquaRat accuracy: {kd_full_finetuned_model_accuracy}')
-
-    # print(f'\nBase Accuracy: {np.round(base_model_accuracy, 4)}')
-    # print(f'Full Accuracy: {np.round(fill_finetuned_model_accuracy, 4)}')
-    # print(f'LORA Accuracy: {np.round(lora_finetuned_model_accuracy, 4)}')
-    print(f'KD_full Accuracy: {np.round(kd_full_finetuned_model_accuracy, 4)}')
+    print(f'\nAccuracy: {np.round(accuracy, 4)}')
 
 if __name__ == '__main__':
     main()
