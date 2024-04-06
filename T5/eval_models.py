@@ -47,7 +47,8 @@ def evaluate_model_accuracy(model, tokenizer, dataset):
         #print(pred_answer)
         #print(answer)
         # Compare predicted answer to the actual answer
-        letters.append(pred_answer[0])
+        if pred_answer:
+            letters.append(pred_answer[0])
         model_answers.append((tokenizer.decode(input, skip_special_tokens=True), answer, pred_answer))
         if pred_answer == answer:
             correct += 1

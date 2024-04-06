@@ -16,7 +16,19 @@ def get_dataset(num_samples, seed):
     conn = sqlite3.connect(dataset_name)
     query = "SELECT * FROM LLM_results"
     df_custom = pd.read_sql_query(query, conn)
-    conn.close()
+    conn.close()    
+    
+    if num_samples <= 1030:
+        # Filter and concatenate the required number of samples from each class
+        samples_per_class = num_samples // 5
+        dfs = []
+        for class_label in ['A', 'B', 'C', 'D', 'E']:
+            df_class = df_custom[df_custom['correct'] == class_label]  # Replace 'class_column' with the actual name of the column representing the class
+            df_class_shuffled = df_class.sample(frac=1, random_state=seed)  # Shuffle the dataframe for the class
+            dfs.append(df_class_shuffled.iloc[:samples_per_class])
+        # Concatenate the dataframes from each class
+        df_custom = pd.concat(dfs).sample(frac=1, random_state=seed)
+        
     training_dataset = Dataset.from_pandas(df_custom)
     training_dataset = training_dataset.shuffle(seed=seed).select(range(num_samples))
     return training_dataset
