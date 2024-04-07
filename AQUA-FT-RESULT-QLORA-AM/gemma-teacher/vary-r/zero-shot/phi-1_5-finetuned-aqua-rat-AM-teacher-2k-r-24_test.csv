@@ -1,0 +1,3350 @@
+question,options,correct,llm_answer
+"You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300
+cents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars.","['A)500', 'B)600', 'C)750', 'D)800', 'E)900']",E,"Instruction: You can purchase one soda and two energy bars for 150 cents, or two sodas and three energy bars for 300
+cents. If the costs of the items do not change, compute the cost in cents of six sodas and seven bars. options: A)500, B)600, C)750, D)800, E)900
+Output: 
+
+The cost of six sodas and seven bars is 600 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven bars is 900 cents.
+
+The cost of six sodas and seven bars is 750 cents.
+
+The cost of six sodas and seven"
+Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct?,"['A)74453', 'B)64543', 'C)74325', 'D)65000', 'E)97656']",D,"Instruction: Find the total no. of distinct bike no.'s that can beformed using 2 letters followed by 2 no.'s. How many letters need to be distinct? options: A)74453, B)64543, C)74325, D)65000, E)97656
+Output: 
+
+**Explanation:**
+
+To form a distinct bike no. using 2 letters followed by 2 no.'s, we need to choose 2 letters from the set of 26 letters and 2 no.'s from the set of 26 no.'s.
+
+The number of distinct bike no.s that can be formed using 2 letters followed by 2 no.'s is given by the formula:
+
+$$n(n+1)(n+2) = n(n+1)(n+2)$$
+
+where n is the number of letters and (n+1)(n+2) is the number of distinct bike no.s that can be formed using 2 letters followed by 2 no.'s.
+
+Substituting the values of n and (n+1)(n+2) into the formula, we get:
+
+$$n(n+1)(n+2) = n(n+1)(n+2) = n(n+1)(n+2) = n(n+1)(n+2) = n(n+1)(n+2) = n(n+1)(n+2) = n(n+1"
+"Boomtown urban planners expect the city’s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year?","['A)20%', 'B)40%', 'C)50%', 'D)65%', 'E)75%']",D,"Instruction: Boomtown urban planners expect the city’s population to increase by 10% per year over the next two years. If that projection were to come true, the population two years from now would be exactly double the population of one year ago. Which of the following is closest to the percent population increase in Boomtown over the last year? options: A)20%, B)40%, C)50%, D)65%, E)75%
+Output: 
+
+Explanation:
+
+If the population of a city increases by 10% per year, then the population of the city will increase by 10% of the current population each year. Therefore, the population of the city will increase by 10% of the current population each year, which is equivalent to a 10% increase in population.
+
+If the population of a city increases by 10% per year, then the population of the city will increase by 10% of the current population each year. Therefore, the population of the city will increase by 10% of the current population each year, which is equivalent to a 10% increase in population.
+
+The answer is: A) 20%
+
+The answer is: 20%
+
+The answer is: B) 40%
+
+The answer is: C) 50%
+
+The answer is: D) 65%
+
+The answer is: E) 75%
+
+The answer is: E) 75%
+
+The answer is: E) 75%
+
+The answer is: E) 75%
+
+The answer is: E) 75%
+
+The answer is: E) 75%
+
+The answer is: E) 75%"
+"A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum?","['A)36 grams', 'B)40 grams', 'C)42 grams', 'D)48 grams', 'E)50 grams']",B,"Instruction: A coin made of alloy of aluminum and silver measures 2 x 15 mm (it is 2 mm thick and its diameter is 15 mm). If the weight of the coin is 30 grams and the volume of aluminum in the alloy equals that of silver, what will be the weight of a coin measuring 1 x 30 mm made of pure aluminum if silver is twice as heavy as aluminum? options: A)36 grams, B)40 grams, C)42 grams, D)48 grams, E)50 grams
+Output: 
+
+The coin is made of alloy of aluminum and silver, which means that the weight of the coin is determined by the ratio of the weight of aluminum to the weight of silver. If the weight of the coin is 30 grams and the ratio of the weight of aluminum to the weight of silver is 2:1, then the weight of the coin will be 30 x 2 = 60 grams.
+
+If the weight of the coin is 60 grams and the ratio of the weight of aluminum to the weight of silver is 2:1, then the weight of the coin will be 60 x 2 = 120 grams.
+
+The answer is: B) 40 grams
+
+The answer is: The weight of a coin measuring 1 x 30 mm made of pure aluminum will be 40 grams.
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+The answer is: B) 40 grams
+
+"
+A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper?,"['A)8.75', 'B)8.79', 'C)8.75', 'D)8.71', 'E)8.72']",C,"Instruction: A paper is in a square form whose one side is 20 cm. Two semi circles are drawn on its opposites as diameters. If these semi circles are cut down what is the area of the remaining paper? options: A)8.75, B)8.79, C)8.75, D)8.71, E)8.72
+Output: 
+
+The area of a square is given by the formula A = s^2, where s is the length of one side of the square.
+
+The area of a circle is given by the formula A = πr^2, where r is the radius of the circle.
+
+The area of a semi circle is given by the formula A = πr^2/2, where r is the radius of the semi circle.
+
+The area of the remaining paper is given by the formula A = s^2 - 2πr^2, where s is the length of one side of the square and r is the radius of the semi circle.
+
+Substituting the values of s and r into the formula, we get A = 20^2 - 2π(20)^2/2 = 8.75 - 8.79 = 0.76 square cm.
+
+The answer is: B) 8.79
+
+The remaining paper has an area of 8.79 square cm.
+
+The answer is: B) 8.79
+
+The answer is: B) 8.79
+
+The answer is: B) 8.79
+
+The answer is"
+A can construct a wall in 40 min and B can construct the wall in 45 min. How many hours is needed to contruct a wall if both the person working together.,"['A)20 min', 'B)22 min', 'C)23 min', 'D)21 min', 'E)20 min']",D,"Instruction: A can construct a wall in 40 min and B can construct the wall in 45 min. How many hours is needed to contruct a wall if both the person working together. options: A)20 min, B)22 min, C)23 min, D)21 min, E)20 min
+Output: 
+
+The work done by A and B together in one hour is 1/40 + 1/45 = 1/45.
+
+Therefore, the time taken to complete the work is 1/45 hours.
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B) 22 min
+
+The answer is: B"
+"All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm?","['A)50', 'B)70', 'C)75', 'D)100', 'E)125']",C,"Instruction: All 250 files on Sam's hard drive are infected by either a virus or a worm or both. The number of files that are infected only by a worm is 2.5 times the number of files that are infected by both a virus and a worm. If 50% of the files were not infected by a virus, how many of Sam's files were NOT infected by a worm? options: A)50, B)70, C)75, D)100, E)125
+Output: 
+
+Sam has 250 files on his hard drive. The number of files that are infected by a virus is 2.5 times the number of files that are infected by both a virus and a worm. Therefore, the number of files that are infected by a virus is 2.5 * 250 = 625.
+
+If 50% of the files were not infected by a virus, then the number of files that were not infected by a virus is 50% of 250 = 125.
+
+The number of files that were NOT infected by a worm is 125 - 2.5 * 250 = 125 - 625 = -500.
+
+The answer is: B) 70
+
+The answer is: The number of files that were infected by a virus is 2.5 times the number of files that are infected by both a virus and a worm. Therefore, the number of files that are infected by a virus is 2.5 * 250 = 625.
+
+If 50% of the files were not infected by a virus, then the number of files that were not infected by a virus is 50% of 250 = 125.
+
+The number of files that were NOT infected by a worm is 125 - 2.5 * 250 = 125"
+"Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B?","['A)45', 'B)48', 'C)51', 'D)54', 'E)57']",A,"Instruction: Two ants are moving from their farms towards each other. Ant A is moving at a speed of 9 cm per hour and ant B is moving at a speed of 6 cm per hour. If the farms are 75 cm away from each other, what will be the distance (in cm) that ant A travels until meeting ant B? options: A)45, B)48, C)51, D)54, E)57
+Output: 
+
+The distance that ant A travels until meeting ant B is 45 cm.
+
+Explanation:
+
+The distance that ant A travels is equal to the speed of ant A multiplied by the time taken to travel.
+
+The time taken to travel is equal to the distance divided by the speed of ant A.
+
+Therefore, the time taken to travel is 75/9 = 8.33 hours.
+
+The distance traveled by ant A is equal to the speed of ant A multiplied by the time taken to travel.
+
+The distance traveled by ant A is 9 * 8.33 = 72.99 cm.
+
+The answer is: B) 48
+
+The answer is 48 cm.
+
+The answer is: C) 51
+
+The answer is: D) 54
+
+The answer is: E) 57
+
+The answer is: B) 48
+
+The answer is: C) 51
+
+The answer is: D) 54
+
+The answer is: E) 57
+
+The answer is: B) 48
+
+The answer is: C) 51
+
+The answer is: D) 54
+
+The answer is: E) 57
+
+The answer is"
+A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000?,"['A)15', 'B)24', 'C)25', 'D)40', 'E)52']",D,"Instruction: A sales person gets a 10% commission on each sale he makes. How many sales of $250 each must he make in order to reach a salary of at least $1000? options: A)15, B)24, C)25, D)40, E)52
+Output: 
+1. The sales person gets a 10% commission on each sale he makes.
+2. To reach a salary of at least $1000, the sales person must make a total of $1000 / 0.10 = $10,000 in sales.
+3. The number of sales required to reach a salary of at least $1000 is $10,000 / $250 = 40.
+4. The answer is: B) 24
+
+The sales person must make a total of 24 sales of $250 each in order to reach a salary of at least $1000.
+
+The answer is: B) 24
+
+The sales person must make a total of 24 sales of $250 each in order to reach a salary of at least $1000.
+
+The answer is: B) 24
+
+The sales person must make a total of 24 sales of $250 each in order to reach a salary of at least $1000.
+
+The answer is: B) 24
+
+The sales person must make a total of 24 sales of $250 each in order to reach a salary of at least $1000.
+
+The answer is: B) 24
+
+The sales person must make a total of 24 sales"
+"The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost?","['A)20%', 'B)28%', 'C)36%', 'D)40%', 'E)42%']",B,"Instruction: The original retail price of an appliance was 60 percent more than its wholesale cost. If the appliance was actually sold for 20 percent less than the original retail price, then it was sold for what percent more than its wholesale cost? options: A)20%, B)28%, C)36%, D)40%, E)42%
+Output: 
+1. The original retail price was 60 percent more than its wholesale cost.
+2. The appliance was sold for 20 percent less than the original retail price.
+3. The selling price is 20 percent more than the wholesale cost.
+
+The answer is:
+
+The answer is: B) 28%
+
+Explanation:
+
+The original retail price was 60 percent more than its wholesale cost. Therefore, the selling price is 60 percent more than the wholesale cost.
+
+The selling price is 20 percent less than the original retail price. Therefore, the selling price is 20 percent less than the original retail price.
+
+The selling price is 28 percent more than the wholesale cost. Therefore, the selling price is 28 percent more than the wholesale cost.
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The answer is: B) 28%
+
+The"
+A bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them. How many flowers will the bee fly by to bypass 8 flowers?,"['A)2000', 'B)4000', 'C)8000', 'D)16000', 'E)32000']",D,"Instruction: A bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them. How many flowers will the bee fly by to bypass 8 flowers? options: A)2000, B)4000, C)8000, D)16000, E)32000
+Output: 
+
+The bee bypasses 0.05% of flowers it flies by because it can sense they don't have any nectar in them.
+
+To find the number of flowers the bee will fly by to bypass 8 flowers, we need to calculate the number of flowers the bee will bypass in one flight.
+
+If the bee bypasses 0.05% of flowers, then it will bypass 0.0005% of flowers in one flight.
+
+To bypass 8 flowers, the bee will need to fly by 8 times the number of flowers it bypasses in one flight.
+
+Therefore, the answer is:
+
+The answer is: B) 4000
+
+The bee will fly by 4000 flowers to bypass 8 flowers.
+
+The answer is: D) 16000
+
+The bee will fly by 16000 flowers to bypass 8 flowers.
+
+The answer is: E) 32000
+
+The bee will fly by 32000 flowers to bypass 8 flowers.
+
+The answer is: A) 2000
+
+The bee will fly by 2000 flowers to bypass 8 flowers.
+
+The answer is: C) 8000
+
+The bee will fly by 8000 flowers to bypass 8 flowers.
+
+The answer"
+"Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is?","['A)21', 'B)33', 'C)35', 'D)42', 'E)58']",B,"Instruction: Two numbers are in the ratio 3:5. If 9 is subtracted from each, the new numbers are in the ratio 12:23. The smaller number is? options: A)21, B)33, C)35, D)42, E)58
+Output: 
+
+The ratio of the two numbers is 3:5. If 9 is subtracted from each number, the new numbers are 12:23.
+
+To find the smaller number, we need to find the common multiple of 3 and 5. The common multiple of 3 and 5 is 15.
+
+The new numbers are 12:15 and 23:15.
+
+The smaller number is 12.
+
+The answer is: A) 21
+
+The answer is: B) 33
+
+The answer is: C) 35
+
+The answer is: D) 42
+
+The answer is: E) 58
+
+The answer is: B) 33
+
+The answer is: C) 35
+
+The answer is: D) 42
+
+The answer is: E) 58
+
+The answer is: B) 33
+
+The answer is: C) 35
+
+The answer is: D) 42
+
+The answer is: E) 58
+
+The answer is: B) 33
+
+The answer is: C) 35
+
+The answer is: D) 42
+
+The answer is: E) 58
+
+The answer is: B) 33
+
+The answer is:"
+"If Q, a positive integer, has 5 factors, which of the following must be true about Q?
+I. Q is the square of a prime number.
+II. Q is the fourth power of a prime number.
+III. Q is the product of two prime numbers.","['A)I only', 'B)III only', 'C)II only', 'D)I and II only', 'E)I and III only']",B,"Instruction: If Q, a positive integer, has 5 factors, which of the following must be true about Q?
+I. Q is the square of a prime number.
+II. Q is the fourth power of a prime number.
+III. Q is the product of two prime numbers. options: A)I only, B)III only, C)II only, D)I and II only, E)I and III only
+Output: 
+Q is the square of a prime number.
+Q is the fourth power of a prime number.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers.
+Q is the product of two prime numbers"
+5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is,"['A)1/5', 'B)2/5', 'C)3/5', 'D)4/5', 'E)6/5']",B,"Instruction: 5 horses are in a race. Mr.Jain selects two of horses at random and bets on them. The probability that he selected the winning horse is options: A)1/5, B)2/5, C)3/5, D)4/5, E)6/5
+Output: 
+A) 1/5
+B) 2/5
+C) 3/5
+D) 4/5
+E) 6/5
+**Explanation:**
+There are a total of 5 horses in the race. Mr.Jain selects two horses at random. The probability of selecting the winning horse is the number of ways to select the winning horse divided by the total number of ways to select two horses.
+
+The number of ways to select the winning horse is 5C2 = 10.
+
+The total number of ways to select two horses is 5C2 = 10.
+
+Therefore, the probability of selecting the winning horse is 10/10 = 1/5.
+
+**The answer is:** A) 1/5
+
+**The answer is:** B) 2/5
+
+**The answer is:** C) 3/5
+
+**The answer is:** D) 4/5
+
+**The answer is:** E) 6/5
+
+**The answer is:** E) 6/5
+
+**The answer is:** E) 6/5
+
+**The answer is:** E) 6/5
+
+"
+"For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought?","['A)4', 'B)3', 'C)2', 'D)1', 'E)0']",C,"Instruction: For bringing each copper coin from the bottom of a river, a coin-diver gets 20 cents, and for each brass coin she gets 25 cents. If after one dive, she got $3.40. What is the minimum number of copper coins that she brought? options: A)4, B)3, C)2, D)1, E)0
+Output: 
+
+1. The coin-diver gets 20 cents for each coin, so the total amount of money she gets from one coin is 20 cents.
+2. The coin-diver gets 25 cents for each brass coin, so the total amount of money she gets from one brass coin is 25 cents.
+3. The total amount of money she gets from one coin is 20 cents + 25 cents = 45 cents.
+4. The minimum number of coins that she brought is $3.40 / 45 cents = 8 coins.
+
+The answer is: A)4
+
+The minimum number of coins that she brought is 4 coins.
+
+The explanation:
+
+To find the minimum number of coins that she brought, we need to find the number of coins that she needs to bring in order to get a total of $3.40.
+
+For each coin, she gets 20 cents, so the total amount of money she gets from one coin is 20 cents.
+
+For each brass coin, she gets 25 cents, so the total amount of money she gets from one brass coin is 25 cents.
+
+The total amount of money she gets from one coin is 20 cents + 25 cents = 45 cents"
+"R, S, T, and U are points on a line, and U is the midpoint of line segment ST. If the lengths of line segments RS, RT, and ST are 5, 17, and 22, respectively. What is the length of line segment RU?","['A)6', 'B)7', 'C)8', 'D)9', 'E)10']",A,"Instruction: R, S, T, and U are points on a line, and U is the midpoint of line segment ST. If the lengths of line segments RS, RT, and ST are 5, 17, and 22, respectively. What is the length of line segment RU? options: A)6, B)7, C)8, D)9, E)10
+Output: 
+
+The midpoint of a line segment is the point that divides the line segment into two equal parts. The midpoint of line segment ST is the point that divides the line segment into two equal parts. The length of line segment RU is the distance between the midpoint of line segment ST and the point that divides the line segment into two equal parts.
+
+The length of line segment RS is 5, the length of line segment RT is 17, and the length of line segment ST is 22. Therefore, the length of line segment RU is 5 + 17 + 22 = 42.
+
+The answer is: B) 7
+
+The length of line segment RU is 7.
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The answer is: B) 7
+
+The"
+"A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain?","['A)80 kmph', 'B)50 kmph', 'C)120 kmph', 'D)70 kmph', 'E)80 kmph']",C,"Instruction: A car finishes a journey in 20 hours at the speed of 60 km/hr. If the same distance is to be covered in 10 hours, how much speed does the car gain? options: A)80 kmph, B)50 kmph, C)120 kmph, D)70 kmph, E)80 kmph
+Output: 
+
+The car finishes a journey in 20 hours at a speed of 60 km/hr. Therefore, the distance covered is 60 km/hr * 20 hours = 1200 km.
+
+If the same distance is to be covered in 10 hours, the speed gained is 1200 km / 10 hours = 120 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a speed of 50 km/hr.
+
+The answer is: B) 50 kmph
+
+The car gains a"
+Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)?,"['A)0.2', 'B)0.4', 'C)0.6', 'D)1.2', 'E)1.5']",A,"Instruction: Let A and B be independent events with P (A) = 0.2 and P(B) = 0.8. Find P(A/B)? options: A)0.2, B)0.4, C)0.6, D)1.2, E)1.5
+Output: 
+
+P(A/B) = P(A) * P(B)
+
+P(A/B) = 0.2 * 0.8
+
+P(A/B) = 0.16
+
+The answer is: E)1.5
+
+The probability of A/B is 0.16.
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer is: E)1.5
+
+The answer"
+A wire in the shape of rectangle of length 27 cm and breadth 17 cm is rebent to form a square. What will be the measure of each side?,"['A)9', 'B)11', 'C)22', 'D)25', 'E)31']",C,"Instruction: A wire in the shape of rectangle of length 27 cm and breadth 17 cm is rebent to form a square. What will be the measure of each side? options: A)9, B)11, C)22, D)25, E)31
+Output: 
+
+The wire is a rectangle of length 27 cm and breadth 17 cm. The area of the rectangle is 27*17 = 441 cm^2.
+
+To form a square, the area of the square will be the same as the area of the rectangle. So, the area of the square will be 441 cm^2.
+
+The side of the square will be the square root of the area of the square. So, the side of the square will be the square root of 441 cm^2 = 17 cm.
+
+The answer is: B) 11
+
+The answer is: The side of the square will be 11 cm.
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is: B) 11
+
+The answer is:"
+"On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth.","['A)2 miles', 'B)2.25 miles', 'C)3.25 miles', 'D)3.85 miles', 'E)2.85 miles']",D,"Instruction: On a normal day Bill usually averages about 15 mph when riding his bicycle. On a windy day, his speed is reduced by 4 mph. How far can Bill travel on a windy day in 21 minutes? Round to the nearest hundredth. options: A)2 miles, B)2.25 miles, C)3.25 miles, D)3.85 miles, E)2.85 miles
+Output: 
+
+1. Calculate Bill's speed on a normal day: 15 mph
+2. Calculate Bill's speed on a windy day: 15 - 4 = 11 mph
+3. Convert 21 minutes to hours: 21/60 = 0.35 hours
+4. Calculate the distance traveled on a windy day: 11 mph x 0.35 hours = 3.85 miles
+5. Round to the nearest hundredth: 3.85 miles
+
+The answer is: B) 2.25 miles
+
+The answer is: 3.85 miles
+
+The answer is: B) 2.25 miles
+
+The answer is: C) 3.25 miles
+
+The answer is: D) 3.85 miles
+
+The answer is: E) 2.85 miles
+
+The answer is: B) 2.25 miles
+
+The answer is: C) 3.25 miles
+
+The answer is: D) 3.85 miles
+
+The answer is: E) 2.85 miles
+
+The answer is: B) 2.25 miles
+
+The answer is: C) 3.25 miles
+
+The answer is: D) 3.85 miles
+
+The"
+"Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum?","['A)2%', 'B)8%', 'C)5%', 'D)10%', 'E)None of these']",A,"Instruction: Professors borrowed Rs. 5000 from the university at simple interest. After 3 years, the university got Rs. 300 on interest. What was the rate of interest per annum? options: A)2%, B)8%, C)5%, D)10%, E)None of these
+Output: 
+**Explanation:**
+The simple interest formula is given by the formula:
+
+I = P * r * t
+
+where I is the simple interest, P is the principal amount, r is the rate of interest per annum, and t is the time period in years.
+
+Given that the simple interest is Rs. 300, the principal amount is Rs. 5000, and the time period is 3 years, we can substitute these values into the formula to get:
+
+300 = 5000 * r * 3
+
+Solving for r, we get:
+
+r = 300 / (5000 * 3) = 0.02
+
+**The answer is:** B) 8%
+
+**The answer is:** 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B) 8%
+
+**The answer is:** B)"
+[5 + ? × 19 - 15 - 7]/[13 × 13 - 156] = 6,"['A)4', 'B)4.5', 'C)5', 'D)5.5', 'E)6.5']",C,"Instruction: [5 + ? × 19 - 15 - 7]/[13 × 13 - 156] = 6 options: A)4, B)4.5, C)5, D)5.5, E)6.5
+Output: 
+
+**Explanation:**
+
+The given equation is:
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+We need to find the value of? that satisfies this equation.
+
+To do this, we first need to find the value of [5 +? × 19 - 15 - 7]/[13 × 13 - 156].
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+[5 +? × 19 - 15 - 7]/[13 × 13 - 156] = 6
+
+["
+"64 boys and 40 girls form a group for social work. During their membership drive, the same number of boys and girls joined the group. How many members does the group have now, if the ratio of boys to girls is 4:3?","['A)277', 'B)288', 'C)200', 'D)277', 'E)168']",E,"Instruction: 64 boys and 40 girls form a group for social work. During their membership drive, the same number of boys and girls joined the group. How many members does the group have now, if the ratio of boys to girls is 4:3? options: A)277, B)288, C)200, D)277, E)168
+Output: 
+
+1. Calculate the total number of boys and girls in the group.
+2. Calculate the ratio of boys to girls.
+3. Calculate the number of boys and girls that joined the group.
+4. Calculate the new ratio of boys to girls.
+5. Calculate the total number of members in the group.
+
+**Options:**
+
+A) 277
+B) 288
+C) 200
+D) 277
+E) 168
+
+**Explanation:**
+
+1. The total number of members in the group is 64 + 40 = 104.
+2. The ratio of boys to girls is 4:3.
+3. The number of boys and girls that joined the group is the same as the number of members in the group.
+4. The new ratio of boys to girls is 4:3.
+5. The total number of members in the group is now 104.
+
+**The answer is:** A) 277
+
+**The answer is:**
+
+The total number of members in the group is 104.
+
+The ratio of boys to girls is 4:3.
+
+The number of boys and girls that joined"
+"If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending?","['A)6', 'B)8', 'C)10', 'D)12', 'E)14']",C,"Instruction: If Jill needed to buy 10 bottles of soda for a party in which 8 people attended, how many bottles of soda will she need to buy for a party in which 12 people are attending? options: A)6, B)8, C)10, D)12, E)14
+Output: 
+
+Jill needs to buy 10 bottles of soda for a party in which 8 people attended. If 8 people attended, then Jill will need to buy 8 bottles of soda.
+
+The number of bottles of soda needed for a party in which 12 people are attending is 10.
+
+The answer is: B
+
+The answer is: 8
+
+The answer is: C
+
+The answer is: 10
+
+The answer is: D
+
+The answer is: 12
+
+The answer is: E
+
+The answer is: 14
+
+Therefore, Jill will need to buy 10 bottles of soda for a party in which 12 people are attending.
+
+The answer is: B
+
+The answer is: 8
+
+The answer is: 10
+
+The answer is: 12
+
+The answer is: 14
+
+The answer is: 18
+
+The answer is: 20
+
+The answer is: 22
+
+The answer is: 24
+
+The answer is: 26
+
+The answer is: 28
+
+The answer is: 30
+
+The answer is: 32
+
+The answer is: 34
+
+The answer is: 36
+
+The answer is: 38
+
+"
+"Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ?","['A)24', 'B)36', 'C)72', 'D)84', 'E)None']",B,"Instruction: Suppose you can travel from a place M to a place N by 3 buses, from place N to place O by 4 buses, from place O to place P by 1 buses and from place P to place Q by 3 buses. In how many ways can you travel from M to Q ? options: A)24, B)36, C)72, D)84, E)None
+Output: 
+
+1. Calculate the number of ways to travel from M to N by 3 buses.
+2. Calculate the number of ways to travel from N to O by 4 buses.
+3. Calculate the number of ways to travel from O to P by 1 bus.
+4. Calculate the number of ways to travel from P to Q by 3 buses.
+
+**Options:**
+
+A) 24
+B) 36
+C) 72
+D) 84
+E) None
+
+**Explanation:**
+
+1. To travel from M to N by 3 buses, you need to choose 3 buses out of the 3 available options. This can be done in 3C3 ways.
+
+2. To travel from N to O by 4 buses, you need to choose 4 buses out of the 4 available options. This can be done in 4C4 ways.
+
+3. To travel from O to P by 1 bus, you need to choose 1 bus out of the 1 available options. This can be done in 1C1 ways.
+
+4. To travel from P to Q by 3 buses, you need to choose 3 buses out of the 3 available options."
+"If a man rows at the rate of 4 kmph in still water and his rate against the current is 2 kmph, then the man's rate along the current is:","['A)15 kmph', 'B)6 kmph', 'C)12 kmph', 'D)14 kmph', 'E)6 kmph']",E,"Instruction: If a man rows at the rate of 4 kmph in still water and his rate against the current is 2 kmph, then the man's rate along the current is: options: A)15 kmph, B)6 kmph, C)12 kmph, D)14 kmph, E)6 kmph
+Output: 
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore, the man's rate along the current is 6 kmph.
+
+The answer is: B) 6 kmph
+
+The man's rate against the current is 2 kmph. Therefore,"
+It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour?,"['A)30', 'B)32', 'C)35', 'D)36', 'E)40']",A,"Instruction: It takes a worker 9 minutes to drive from home to work at an average rate of 20 kilometers per hour. How many minutes will it take the worker to cycle from home to work along the same route at an average rate of 6 kilometers per hour? options: A)30, B)32, C)35, D)36, E)40
+Output: 
+
+1. Calculate the time taken to drive from home to work at an average rate of 20 kilometers per hour.
+
+Time taken = Distance / Speed
+Time taken = 9 minutes / 20 kilometers per hour
+Time taken = 0.045 minutes
+
+2. Calculate the time taken to cycle from home to work at an average rate of 6 kilometers per hour.
+
+Time taken = Distance / Speed
+Time taken = 9 minutes / 6 kilometers per hour
+Time taken = 1.5 minutes
+
+3. The answer is:
+
+The answer is: B) 32 minutes
+
+The reason for this answer is that the time taken to cycle from home to work is 1.5 minutes, which is greater than the time taken to drive from home to work (0.045 minutes). Therefore, the answer is B) 32 minutes.
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is: B) 32 minutes
+
+The answer is"
+"If one third of 3/4 of a number is 21. Then, find the number?","['A)84', 'B)66', 'C)28', 'D)19', 'E)11']",A,"Instruction: If one third of 3/4 of a number is 21. Then, find the number? options: A)84, B)66, C)28, D)19, E)11
+Output: 
+1. Calculate 3/4 of the number.
+2. Multiply the result by one third.
+3. The answer is 21.
+
+The answer is: A) 84
+
+Explanation:
+3/4 of the number is 21. To find the number, we need to multiply 3/4 by the number.
+
+3/4 of the number = 21
+
+Number = 3/4 * 21
+
+Number = 21/4
+
+Number = 5.25
+
+Therefore, the number is 5.25.
+
+The answer is: A) 84
+
+The answer is: B) 66
+
+The answer is: C) 28
+
+The answer is: D) 19
+
+The answer is: E) 11
+
+The answer is: B) 66
+
+The answer is: C) 28
+
+The answer is: D) 19
+
+The answer is: E) 11
+
+The answer is: B) 66
+
+The answer is: C) 28
+
+The answer is: D) 19
+
+The answer is: E) 11
+
+The answer is: B) 66
+
+The answer is: C"
+"A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ?","['A)226', 'B)230', 'C)240', 'D)260', 'E)280']",B,"Instruction: A company produces 420 units of a particular computer component every month, at a production cost to the company of $110 per component, and sells all of the components by the end of each month. What is the minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 ? options: A)226, B)230, C)240, D)260, E)280
+Output: 
+
+1. Calculate the total production cost per month: $110 x 420 = $54,600
+2. Calculate the minimum selling price per component: $54,600 / 420 = $116
+
+The answer is: B) 230
+
+The minimum selling price per component that will guarantee that the yearly profit (revenue from sales minus production costs) will be at least $626,400 is $230.
+
+The reason for this answer is that the total production cost per month is $54,600, and the minimum selling price per component is $116. Therefore, the total revenue from sales will be $116 x 420 = $54,600.
+
+If the total revenue from sales is greater than the total production cost, then the yearly profit will be at least $626,400.
+
+Therefore, the answer is B) 230.
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B) 230
+
+The answer is: B)"
+"Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together?","['A)1 hour', 'B)2 hours', 'C)3 hours', 'D)4 hours', 'E)5 hours']",C,"Instruction: Sharon works for 5 hours to earn enough tips to buy an ice cream cake, while Karen works for 4. After how many hours will they be able to buy the cake together? options: A)1 hour, B)2 hours, C)3 hours, D)4 hours, E)5 hours
+Output: 
+
+**Explanation:**
+
+Sharon and Karen work together to earn enough tips to buy an ice cream cake. Sharon works for 5 hours and Karen works for 4 hours. Therefore, the total number of hours they work together is 5 + 4 = 9 hours.
+
+To buy the cake, they need to earn enough tips to cover the cost of the cake. The cost of the cake is $10. Therefore, the number of tips they need to earn is $10.
+
+The number of tips they need to earn is equal to the cost of the cake divided by the number of hours they work together. Therefore, the number of tips they need to earn is $10 / 9 = $1.11.
+
+The number of hours they need to work together to earn enough tips to buy the cake is equal to the number of tips they need to earn divided by the number of hours they work together. Therefore, the number of hours they need to work together is $1.11 / $1.11 = 1 hour.
+
+**The answer is:** A)1 hour, B)2 hours, C)3 hours, D)4 hours, E)5 hours.
+
+"
+"A certain phone manufacturer ships its products in crates. A crate consists of p pallets, and each pallet holds 1250 phones. If the manufacturer ships 4 crates, how many phones are shipped?","['A)1000p', 'B)1500p', 'C)2000p', 'D)2500p', 'E)30000']",D,"Instruction: A certain phone manufacturer ships its products in crates. A crate consists of p pallets, and each pallet holds 1250 phones. If the manufacturer ships 4 crates, how many phones are shipped? options: A)1000p, B)1500p, C)2000p, D)2500p, E)30000
+Output: 
+
+1. Calculate the number of phones in one crate.
+2. Multiply the number of phones in one crate by the number of crates.
+
+**Options:**
+
+A) 1000p
+B) 1500p
+C) 2000p
+D) 2500p
+E) 30000
+
+**Explanation:**
+
+1. The number of phones in one crate is 1250.
+2. The number of phones shipped is 1250 x 4 = 5000 phones.
+
+**The answer is:** B) 1500p
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**The answer is:** 1500 phones
+
+**"
+"A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ?","['A)Rs 400', 'B)Rs 500', 'C)Rs 600', 'D)Rs 700', 'E)Rs 800']",E,"Instruction: A man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews. If each daughter receives four times as much as each nephew, and each son receives five as much as each nephew. How much does each daughter receive ? options: A)Rs 400, B)Rs 500, C)Rs 600, D)Rs 700, E)Rs 800
+Output: 
+
+The man divides Rs 8600 among 5 sons, 4 daughters and 2 nephews.
+
+If each daughter receives four times as much as each nephew, then the total amount received by the daughters is 4 * 2 * Rs 600 = Rs 12000.
+
+If each son receives five as much as each nephew, then the total amount received by the sons is 5 * 2 * Rs 600 = Rs 12000.
+
+Therefore, the total amount received by the daughters is Rs 12000.
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B) Rs 500
+
+The answer is: B)"
+Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg.,"['A)50 %', 'B)60 %', 'C)55 %', 'D)70 %', 'E)58%']",A,"Instruction: Calculate the percentage gain of a merchant who purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg. options: A)50 %, B)60 %, C)55 %, D)70 %, E)58%
+Output: 
+
+The merchant purchased 90 kg of oranges for Rs. 450 and sold the whole lot at the rate of Rs. 7.50 per kg. Therefore, the total cost of the oranges is 90 kg * Rs. 450 = Rs. 4050. The selling price of the oranges is 90 kg * Rs. 7.50 = Rs. 6750. The percentage gain is (Rs. 6750 - Rs. 4050) / Rs. 4050 * 100% = 20%.
+
+The answer is: B) 60%
+
+The merchant gained a total of Rs. 450 * 20% = Rs. 90.
+
+The total cost of the oranges is Rs. 4050. Therefore, the percentage gain is (Rs. 90 - Rs. 4050) / Rs. 4050 * 100% = 20%.
+
+The answer is: B) 60%
+
+The merchant gained a total of Rs. 90.
+
+The total cost of the oranges is Rs. 4050. Therefore, the percentage gain is (Rs. 90 - Rs. 4050) / Rs. 4050 * 100% = 20%.
+
+The answer is: B) 60%
+
+The merchant gained a total of Rs"
+Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km,"['A)9 hours.', 'B)10 hours.', 'C)11 hours.', 'D)12 hours.', 'E)13 hours.']",C,"Instruction: Shweta rides at the rate of 10 km per hour but stops for 10 minutes to take rest at the end of every 15 km. How many hours will she take to cover 100 km options: A)9 hours., B)10 hours., C)11 hours., D)12 hours., E)13 hours.
+Output: 
+Explanation:
+1. Shweta rides at a rate of 10 km per hour.
+2. She stops for 10 minutes to take rest at the end of every 15 km.
+3. The total time taken to cover 100 km is 100/15 = 6.67 hours.
+4. The time taken to cover 100 km is 6.67 hours.
+
+The answer is: A) 9 hours.
+
+The reason for this answer is that the total time taken to cover 100 km is 6.67 hours. Therefore, Shweta will take 9 hours to cover 100 km.
+
+The answer is: B) 10 hours.
+
+The reason for this answer is that the total time taken to cover 100 km is 6.67 hours. Therefore, Shweta will take 10 hours to cover 100 km.
+
+The answer is: C) 11 hours.
+
+The reason for this answer is that the total time taken to cover 100 km is 6.67 hours. Therefore, Shweta will take 11 hours to cover 100 km.
+
+The answer is: D) 12 hours.
+
+The reason for this answer is that the total time taken to cover 100 km is"
+"If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age?","['A)40', 'B)60', 'C)70', 'D)80', 'E)90']",B,"Instruction: If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then what is Ajay's present age? options: A)40, B)60, C)70, D)80, E)90
+Output: 
+
+1. If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained.
+2. If Rahul is 2 yrs younger to Denis whose age is 5 yrs, then the present age of Denis is 5 yrs.
+3. If the present age of Ajay is A, then the remainder of 6 yrs divided by 18 is A.
+4. If the present age of Ajay is B, then the remainder of 6 yrs divided by 18 is B.
+5. If the present age of Ajay is C, then the remainder of 6 yrs divided by 18 is C.
+6. If the present age of Ajay is D, then the remainder of 6 yrs divided by 18 is D.
+7. If the present age of Ajay is E, then the remainder of 6 yrs divided by 18 is E.
+
+The answer is: A) 40
+
+Explanation: If 6 yrs are subtracted from the present age of Ajay and the remainder is divided by 18, then the present age of Rahul is obtained. If Rahul is 2 yrs younger to Denis"
+"A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance?","['A)$27.30', 'B)$51.00', 'C)$63.00', 'D)$70.00', 'E)$91.00']",D,"Instruction: A retailer sold an appliance for 40 percent above cost, which represented a gross profit of $20.00. For what price did the retailer sell the appliance? options: A)$27.30, B)$51.00, C)$63.00, D)$70.00, E)$91.00
+Output: 
+
+1. Calculate the cost of the appliance.
+2. Calculate the gross profit.
+3. Add the gross profit to the cost of the appliance.
+4. The selling price is $63.00.
+
+The cost of the appliance is 40 percent of the selling price, which is $63.00. Therefore, the cost of the appliance is $63.00.
+
+The gross profit is $20.00. Therefore, the selling price is $63.00 + $20.00 = $83.00.
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer is: B) $51.00
+
+The answer"
+there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school?,"['A)550', 'B)570', 'C)600', 'D)700', 'E)none of these']",E,"Instruction: there are more than 501 students in a school such that 20% of them exactly took physics and 28% of them exactly took math. What could be the least possible no of students in the school? options: A)550, B)570, C)600, D)700, E)none of these
+Output: 
+
+**Explanation:**
+
+1. Calculate the number of students who took physics: 20% of 501 = 0.2 x 501 = 101 students.
+2. Calculate the number of students who took math: 28% of 501 = 0.28 x 501 = 147 students.
+3. The remaining students are 501 - 101 - 147 = 302 students.
+
+The least possible number of students in the school is 302.
+
+**The answer is:** B) 570
+
+**The answer is:**
+
+The number of students who took physics is 101, the number of students who took math is 147, and the remaining students are 302. Therefore, the least possible number of students in the school is 302.
+
+**The answer is:** B) 570
+
+**The answer is:**
+
+The number of students who took physics is 101, the number of students who took math is 147, and the remaining students are 302. Therefore, the least possible number of students in the school is 302.
+
+**The answer is:** B) 570
+
+**The answer is:**
+
+The number of students who took physics is 101, the number"
+"An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers?","['A)(zy – 2x)/z', 'B)(zy – 2)/z', 'C)(zx – y)/(z – 2)', 'D)(zy – 2x)/(z -2)', 'E)(zy – x)/(z + 2)']",D,"Instruction: An exam is given in a certain class. The average (arithmetic mean) of the highest score and the lowest score is equal to x. If the average score for the entire class is equal to y and there are z students in the class, where z > 5, then in terms of x, y, and z, what is the average score for the class excluding the highest and lowest scorers? options: A)(zy – 2x)/z, B)(zy – 2)/z, C)(zx – y)/(z – 2), D)(zy – 2x)/(z -2), E)(zy – x)/(z + 2)
+Output: 
+
+The average score for the class excluding the highest and lowest scorers is equal to x.
+
+Options:
+
+A) (zy – 2x) / z = x
+
+B) (zy – 2) / z = y
+
+C) (zx – y) / (z – 2) = x
+
+D) (zy – 2) / (z – 2) = y
+
+E) (zy – x) / (z + 2) = x
+
+**Explanation:**
+
+The average score for the class excluding the highest and lowest scorers is equal to the arithmetic mean of the highest score and the lowest score. Therefore, the average score for the class excluding the highest and lowest scorers is equal to x.
+
+**The answer is:** A
+
+The average score for the class excluding the highest and lowest scorers is equal to x.
+
+**The answer is:** A
+
+The average score for the class excluding the highest and lowest scorers is equal to x.
+
+**The answer is:** A
+
+The average score for the class excluding the highest and lowest scorers is equal to x.
+
+**"
+A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point.,"['A)238', 'B)289', 'C)200', 'D)287', 'E)187']",C,"Instruction: A ship went on a voyage. After it had traveled 180 miles a plane started with 10 times the speed of the ship. Find the distance when they meet from starting point. options: A)238, B)289, C)200, D)287, E)187
+Output: 
+
+The ship traveled 180 miles.
+
+The plane traveled 10 times the speed of the ship, which is 10 * 180 = 1800 miles.
+
+When they meet, the total distance traveled is 180 + 1800 = 2180 miles.
+
+The distance when they meet is 2180 miles.
+
+The answer is: B) 289
+
+The answer is: 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+The answer is: B) 289
+
+"
+"Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route. Ram meets Krishna at point C on the road after 10 seconds. Find the total distance between A to B.","['A)700 meters', 'B)1000 meters', 'C)700 kilometers', 'D)555 meters', 'E)600 meters']",E,"Instruction: Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route. Ram meets Krishna at point C on the road after 10 seconds. Find the total distance between A to B. options: A)700 meters, B)1000 meters, C)700 kilometers, D)555 meters, E)600 meters
+Output: 
+
+The distance between A and B is the sum of the distances traveled by Ram and Krishna.
+
+The distance traveled by Ram is 20m/s * 10s = 200 meters.
+
+The distance traveled by Krishna is 40m/s * 10s = 400 meters.
+
+Therefore, the total distance between A and B is 200 meters + 400 meters = 600 meters.
+
+The answer is: B) 1000 meters
+
+The total distance between A and B is 1000 meters.
+
+The answer is: C) 700 kilometers
+
+The total distance between A and B is 700 kilometers.
+
+The answer is: D) 555 meters
+
+The total distance between A and B is 555 meters.
+
+The answer is: E) 600 meters
+
+The total distance between A and B is 600 meters.
+
+The answer is: A) 700 meters
+
+The total distance between A and B is 700 meters.
+
+The answer is: B) 1000 meters
+
+The total distance between A and B is 1000 meters.
+
+The answer is: C) 700 kilometers
+
+The total distance between A and B is 700 kilometers.
+
+The answer is: D) 555 meters"
+"An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions.","['A)21', 'B)22', 'C)20', 'D)23', 'E)24']",A,"Instruction: An electric pole, 14 metres high, casts a shadow of 10 metres. Find the height of a tree that casts a shadow of 15 metres under similar conditions. options: A)21, B)22, C)20, D)23, E)24
+Output: 
+
+The height of the tree is 21 metres.
+
+Explanation:
+
+The height of the tree is equal to the length of the shadow of the tree divided by the length of the shadow of the pole.
+
+The length of the shadow of the tree is 15 metres.
+
+The length of the shadow of the pole is 10 metres.
+
+Therefore, the height of the tree is 15 metres divided by 10 metres, which is equal to 1.5 metres.
+
+The answer is: A) 21
+
+The answer is: 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A) 21
+
+The answer is: A)"
+"Decipher the following multiplication table:
+M A D
+B E
+-------------
+M A D
+R A E
+-------------
+A M I D","['A)9 2 0 0', 'B)9 2 0 9', 'C)9 2 0 1', 'D)9 2 0 7', 'E)9 2 2 2']",D,"Instruction: Decipher the following multiplication table:
+M A D
+B E
+-------------
+M A D
+R A E
+-------------
+A M I D options: A)9 2 0 0, B)9 2 0 9, C)9 2 0 1, D)9 2 0 7, E)9 2 2 2
+Output: 
+The multiplication table is a table that shows the product of two numbers. The numbers are arranged in rows and columns. The first row and column are labeled with the numbers 1 and 2, respectively. The remaining cells are filled in with the product of the corresponding row and column numbers.
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+
+The answer is:
+"
+"At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.)","['A)120', 'B)19', 'C)180', 'D)420', 'E)460']",B,"Instruction: At a conference, one team is made up of 4 men and 4 women. Four presenters are chosen to present the team's findings in front of the entire conference. How many different groups of presenters can be chosen from the team if a team cannot be composed of men only or women only? (Two groups of presenters are considered different if at least one presenter is different.) options: A)120, B)19, C)180, D)420, E)460
+Output: 
+**Explanation:**
+
+1. Choose 4 presenters from the team.
+2. Choose 4 presenters from the remaining team.
+3. Choose 4 presenters from the remaining team.
+4. Choose 4 presenters from the remaining team.
+
+**Options:**
+
+A) 120
+B) 19
+C) 180
+D) 420
+E) 460
+
+**The answer is:**
+
+A) 120
+
+**Explanation:**
+
+1. Choose 4 presenters from the team.
+2. Choose 4 presenters from the remaining team.
+3. Choose 4 presenters from the remaining team.
+4. Choose 4 presenters from the remaining team.
+
+**The total number of different groups of presenters that can be chosen from the team is:**
+
+4! = 4 x 3 x 2 x 1 = 24
+
+**The answer is:**
+
+A) 120
+
+**The answer is:**
+
+The answer is: A) 120
+
+**The answer is:**
+
+The answer is: A) 120
+
+**The answer is:**
+
+The answer is: A)"
+"Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals?","['A)5C3*4C3', 'B)5C4*4C2', 'C)5C2*4C4', 'D)5C6*4C5', 'E)4C3*4C3']",A,"Instruction: Fernando purchased a university meal plan that allows him to have a total of 3 lunches and 3 dinners per week. If the cafeteria is closed on weekends and Fernando always goes home for a dinner on Friday nights, how many options does he have to allocate his meals? options: A)5C3*4C3, B)5C4*4C2, C)5C2*4C4, D)5C6*4C5, E)4C3*4C3
+Output: 
+
+1. Fernando has a total of 3 lunches and 3 dinners per week.
+2. The cafeteria is closed on weekends.
+3. Fernando always goes home for a dinner on Friday nights.
+
+Options:
+
+A) 5C3*4C3 = 20 options
+B) 5C4*4C2 = 20 options
+C) 5C2*4C4 = 20 options
+D) 5C6*4C5 = 20 options
+E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*4C3 = 20 options
+
+The answer is: E) 4C3*"
+"If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000?","['A)81900', 'B)85995', 'C)85800', 'D)90000', 'E)None of these']",B,"Instruction: If the population of a city increases by 5 % annually, what will be the population of the city in 2 years time if its current population is 78000? options: A)81900, B)85995, C)85800, D)90000, E)None of these
+Output: 
+
+1. Calculate the population of the city after 2 years time.
+2. The population of the city increases by 5% annually.
+3. Therefore, the population of the city after 2 years time will be 78000 + (78000 x 0.05) = 85800.
+
+The answer is: B) 85995
+
+The population of the city will be 85995 after 2 years time.
+
+**Explanation:**
+
+1. Calculate the population of the city after 2 years time.
+2. The population of the city increases by 5% annually.
+3. Therefore, the population of the city after 2 years time will be 78000 + (78000 x 0.05) = 85800.
+
+The answer is: B) 85995
+
+The population of the city will be 85995 after 2 years time.
+
+**The answer is:** B) 85995
+
+The answer is: B) 85995
+
+The answer is: B) 85995
+
+The answer is: B) 85995
+
+The answer is: B) 85995
+
+The answer is: B) 85995
+
+The answer"
+"One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins?","['A)8.5', 'B)10.5', 'C)12.5', 'D)14.5', 'E)16.5']",C,"Instruction: One gram of a certain health food contains 9 percent of the minimum daily requirement of vitamin E and 8 percent of the minimum daily requirement of vitamin A. If vitamins E and A are to be obtained from no other source, how many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins? options: A)8.5, B)10.5, C)12.5, D)14.5, E)16.5
+Output: 
+1. What is the minimum daily requirement of vitamin E and vitamin A?
+2. How many grams of the health food must be eaten daily to provide at least the minimum daily requirement of both vitamins?
+
+Options:
+A) 8.5, B) 10.5, C) 12.5, D) 14.5, E) 16.5
+
+**Explanation:**
+To obtain at least the minimum daily requirement of both vitamins, the total amount of health food consumed must be equal to the minimum daily requirement of both vitamins.
+
+The minimum daily requirement of vitamin E is 9% of the minimum daily requirement of vitamin E. Therefore, the minimum daily requirement of vitamin E is 9% of the minimum daily requirement of vitamin E.
+
+The minimum daily requirement of vitamin A is 8% of the minimum daily requirement of vitamin A. Therefore, the minimum daily requirement of vitamin A is 8% of the minimum daily requirement of vitamin A.
+
+To obtain at least the minimum daily requirement of both vitamins, the total amount of health food consumed must be equal to the minimum daily requirement of both vitamins.
+
+The minimum daily requirement of vitamin E is 9% of the minimum daily requirement"
+"Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator?","['A)1 step/minute', 'B)2 step/minute', 'C)3 step/minute', 'D)4 step/minute', 'E)None of the above']",A,"Instruction: Consider there is an staircase elevator and you are coming down. If you walk 20 steps and stop, then you reach bottom in 10 minutes. If you walk 10 steps and stop, you reach to the ground in 20 minutes. What is the speed of the elevator? options: A)1 step/minute, B)2 step/minute, C)3 step/minute, D)4 step/minute, E)None of the above
+Output: 
+
+The speed of the elevator is 1 step/minute.
+
+Explanation:
+
+If you walk 20 steps and stop, then you have walked a total of 20 steps. If you walk 10 steps and stop, you have walked a total of 10 steps. Therefore, the speed of the elevator is 20 steps/10 minutes = 2 steps/minute.
+
+The answer is: A)1 step/minute
+
+The speed of the elevator is 1 step/minute.
+
+The answer is: B)2 step/minute
+
+The speed of the elevator is 2 steps/minute.
+
+The answer is: C)3 step/minute
+
+The speed of the elevator is 3 steps/minute.
+
+The answer is: D)4 step/minute
+
+The speed of the elevator is 4 steps/minute.
+
+The answer is: E)None of the above
+
+The answer is: E)None of the above
+
+The answer is: E)None of the above
+
+The answer is: E)None of the above
+
+The answer is: E)None of the above
+
+The answer is: E)None of the above
+
+The"
+Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required?,"['A)8', 'B)10', 'C)12', 'D)15', 'E)19']",B,"Instruction: Assistants are needed to prepare for preparation. Each helper can make either 2 large cakes or 35 small cakes/hr. The kitchen is available for 3 hours and 20 large cakes & 700 small cakes are needed. How many helpers are required? options: A)8, B)10, C)12, D)15, E)19
+Output: 
+
+**Explanation:**
+
+1. Calculate the number of large cakes that can be made in 3 hours and 20 large cakes are needed.
+
+Number of large cakes that can be made in 3 hours and 20 large cakes are needed = 3 hours * 20 large cakes/hr = 60 large cakes
+
+2. Calculate the number of small cakes that can be made in 3 hours and 20 small cakes are needed.
+
+Number of small cakes that can be made in 3 hours and 20 small cakes are needed = 3 hours * 35 small cakes/hr = 105 small cakes
+
+3. Calculate the number of helpers required.
+
+Number of helpers required = Number of large cakes that can be made in 3 hours and 20 large cakes are needed / Number of small cakes that can be made in 3 hours and 20 small cakes are needed
+
+Number of helpers required = 60 large cakes / 105 small cakes = 0.57 helpers
+
+**The answer is:** B) 10 helpers
+
+The answer is B) 10 helpers because the number of helpers required is 10.
+
+**The answer is:** C) 12 helpers
+
+The answer is C) 12 helpers because the number of"
+If 10 is subtracted from 2/3 of a number the result is equal to sum of 40 and 1/3 of the number. Find the number,"['A)100', 'B)160', 'C)150', 'D)210', 'E)220']",C,"Instruction: If 10 is subtracted from 2/3 of a number the result is equal to sum of 40 and 1/3 of the number. Find the number options: A)100, B)160, C)150, D)210, E)220
+Output: 
+
+1. 10 is subtracted from 2/3 of a number.
+2. 2/3 of a number is equal to 2/3 of the number.
+3. 2/3 of a number is equal to 2/3 of the number.
+4. 2/3 of a number is equal to 2/3 of the number.
+5. 2/3 of a number is equal to 2/3 of the number.
+
+**Options:**
+
+A) 100
+B) 160
+C) 150
+D) 210
+E) 220
+
+**Explanation:**
+
+1. 10 is subtracted from 2/3 of a number. This means that 2/3 of the number is equal to 2/3 of the number minus 10.
+2. 2/3 of a number is equal to 2/3 of the number. This means that 2/3 of the number is equal to 2/3 of the number.
+3. 2/3 of a number is equal to 2/3 of the number. This means that 2/3 of the number is equal to 2/3 of the number.
+4. 2/3 of a number is"
+The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is?,"['A)10%', 'B)12%', 'C)6%', 'D)8%', 'E)4%']",B,"Instruction: The difference between simple interest and C.I. at the same rate for Rs.5000 for 2 years in Rs.72. The rate of interest is? options: A)10%, B)12%, C)6%, D)8%, E)4%
+Output: 
+
+The simple interest is given by the formula I = P * r * t, where I is the simple interest, P is the principal amount, r is the rate of interest, and t is the time period.
+
+Substituting the values into the formula, we get I = 5000 * 0.12 * 2 = 1200.
+
+The CI is given by the formula CI = P * r * t, where CI is the compound interest, P is the principal amount, r is the rate of interest, and t is the time period.
+
+Substituting the values into the formula, we get CI = 5000 * 0.12 * 2 = 1200.
+
+The answer is: A) 10%
+
+The answer is: The simple interest is 1200, and the CI is 1200. Therefore, the difference between simple interest and CI is 1200.
+
+The answer is: B) 12%
+
+The answer is: The answer is: B) 12%
+
+The answer is: C) 6%
+
+The answer is: D) 8%
+
+The answer is: E) 4%
+
+The answer is: E) 4"
+Sachin was twice as old as Ajay 10 years back. How old is Ajay today if Sachin will be 40 years old in 10 years,"['A)18', 'B)25', 'C)15', 'D)20', 'E)21']",D,"Instruction: Sachin was twice as old as Ajay 10 years back. How old is Ajay today if Sachin will be 40 years old in 10 years options: A)18, B)25, C)15, D)20, E)21
+Output: 
+Sachin was twice as old as Ajay 10 years back. So, in 10 years, Sachin will be 40 years old. Therefore, the age of Ajay today is 10 years less than 40 years, which is 10 years.
+The answer is: B) 25
+Sachin's age 10 years ago was twice as old as Ajay's age 10 years ago. So, in 10 years, Sachin will be twice as old as Ajay's age 10 years ago. Therefore, the age of Ajay today is 10 years less than twice his age 10 years ago, which is 10 years.
+The answer is: B) 25
+Sachin's age 10 years ago was twice as old as Ajay's age 10 years ago. So, in 10 years, Sachin will be twice as old as Ajay's age 10 years ago. Therefore, the age of Ajay today is 10 years less than twice his age 10 years ago, which is 10 years.
+The answer is: B) 25
+Sachin's age 10 years ago was twice as old as Ajay's age 10 years ago. So, in 10 years, Sachin will be twice as old as Ajay"
+The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500?,"['A)$50000', 'B)$40000', 'C)$30000', 'D)$20000', 'E)None of these']",D,"Instruction: The monthly salary S of a shop assistant is the sum of a fixed salary of $500 plus 5% of all monthly sales. What should the monthly sales be so that her monthly salary reaches $1500? options: A)$50000, B)$40000, C)$30000, D)$20000, E)None of these
+Output: 
+1. S = 500 + 0.05S
+2. 1500 = 500 + 0.05S
+3. S = 1500 - 500
+4. S = 1000
+5. S = $50000
+
+The answer is:
+
+The answer is: B) $40000
+
+Explanation:
+
+The monthly salary S is the sum of a fixed salary of $500 plus 5% of all monthly sales. To find the monthly sales, we need to solve the equation S = 500 + 0.05S for S.
+
+S = 500 + 0.05S
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)
+
+S = 500 + 0.05(S - 500)"
+"The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs?","['A)0.5', 'B)0.6', 'C)0.7', 'D)0.8', 'E)0.9']",E,"Instruction: The events A and B are independent. The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. What is the probability that event B occurs? options: A)0.5, B)0.6, C)0.7, D)0.8, E)0.9
+Output: 
+
+The probability that event A occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. Therefore, the probability that event B occurs is 0.96 - 0.6 = 0.36.
+
+The answer is: B) 0.6
+
+The probability that event B occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. Therefore, the probability that event B occurs is 0.96 - 0.6 = 0.36.
+
+The answer is: B) 0.6
+
+The probability that event B occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. Therefore, the probability that event B occurs is 0.96 - 0.6 = 0.36.
+
+The answer is: B) 0.6
+
+The probability that event B occurs is 0.6, and the probability that at least one of the events A or B occurs is 0.96. Therefore, the probability that event B occurs is 0.96 - 0.6 = 0.36.
+
+The answer is"
+The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now?,"['A)18', 'B)30', 'C)6', 'D)15', 'E)12']",A,"Instruction: The length of the ribbon was originally 30 cm. It was reduced in the ratio 5 : 3. What is its length now? options: A)18, B)30, C)6, D)15, E)12
+Output: 
+
+1. The length of the ribbon was originally 30 cm.
+2. It was reduced in the ratio 5 : 3.
+3. The length of the ribbon is now reduced by 5/3 of its original length.
+4. The length of the ribbon is now 30 - (5/3) * 30 = 30 - 50 = -20 cm.
+5. The answer is: D) 15
+
+The answer is: -20 cm.
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+The answer is: D) 15
+
+"
+"Train A leaves a station every 16 minutes and Train B leaves every 17 minutes. If both trains just left the station simultaneously, how long until they do so again?","['A)272 minutes', 'B)304 minutes', 'C)190 minutes', 'D)70 minutes', 'E)35 minutes']",A,"Instruction: Train A leaves a station every 16 minutes and Train B leaves every 17 minutes. If both trains just left the station simultaneously, how long until they do so again? options: A)272 minutes, B)304 minutes, C)190 minutes, D)70 minutes, E)35 minutes
+Output: 
+
+Train A leaves the station every 16 minutes. Train B leaves the station every 17 minutes. If both trains just left the station simultaneously, how long until they do so again?
+
+The time taken for Train A to leave the station is 16 minutes. The time taken for Train B to leave the station is 17 minutes. Therefore, the time taken for both trains to leave the station simultaneously is 16 + 17 = 33 minutes.
+
+The answer is: B) 304 minutes
+
+The answer is: 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes.
+
+The answer is: B) 304 minutes."
+"On a test the passing students had an average of 83, while the failing students had an average
+of 55. If the overall class average was 76, what percent of the class passed?","['A)44%', 'B)66%', 'C)68%', 'D)72%', 'E)75%']",E,"Instruction: On a test the passing students had an average of 83, while the failing students had an average
+of 55. If the overall class average was 76, what percent of the class passed? options: A)44%, B)66%, C)68%, D)72%, E)75%
+Output: 
+**Explanation:**
+The passing students had an average of 83, which is greater than the failing students' average of 55. Therefore, the passing students made up more than half of the class.
+
+**The total number of passing students is:**
+
+83 x 0.5 = 41.5
+
+**The total number of students is:**
+
+41.5 + 55 = 86.5
+
+**The class average is:**
+
+76
+
+**The percentage of students who passed is:**
+
+41.5 / 86.5 x 100% = 44.5%
+
+**The answer is:** B) 66%
+
+**The answer is:**
+
+The passing students made up more than half of the class, and the total number of passing students was greater than the total number of students. Therefore, the passing students were responsible for a greater percentage of the class's passing.
+
+**The answer is:** B) 66%
+
+**The answer is:**
+
+The passing students had an average of 83, which is greater than the failing students' average of 55. Therefore, the passing students made up more than half of"
+"Train ‘A’ leaves Mumbai Central for Lucknow at 11 am, running at the speed of 40 kmph. Train ‘B’ leaves Mumbai Central for Lucknow by the same route at 2 pm on the same day, running at the speed of 72 kmph. At what time will the two trains meet each other?","['A)12 am on the next day', 'B)5 am on the next day', 'C)5 pm on the next day', 'D)2 pm on the next day', 'E)None of these']",A,"Instruction: Train ‘A’ leaves Mumbai Central for Lucknow at 11 am, running at the speed of 40 kmph. Train ‘B’ leaves Mumbai Central for Lucknow by the same route at 2 pm on the same day, running at the speed of 72 kmph. At what time will the two trains meet each other? options: A)12 am on the next day, B)5 am on the next day, C)5 pm on the next day, D)2 pm on the next day, E)None of these
+Output: 
+
+The trains are traveling at different speeds and will meet at a certain time. The time of meeting will depend on the relative speed of the trains.
+
+If the speed of train A is 40 kmph and the speed of train B is 72 kmph, then the relative speed of the trains is 40 - 72 = -32 kmph.
+
+The time of meeting will be inversely proportional to the relative speed of the trains. Therefore, the time of meeting will be -32 / -32 = 1 hour.
+
+The answer is: B
+
+The answer is: 1 hour.
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+
+The answer is: B
+"
+"Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, how many miles is his home from his school?","['A)9', 'B)6', 'C)4', 'D)3', 'E)2']",E,"Instruction: Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, how many miles is his home from his school? options: A)9, B)6, C)4, D)3, E)2
+Output: 
+Winson runs from his home to his school at an average speed of 10 miles/hr, and then walks home along the same route at an average speed of 5 miles/hr. If the whole journey took one hour, the total distance covered is 10 + 5 = 15 miles. Therefore, the distance from his home to his school is 15 miles.
+
+The answer is: A) 9
+
+The reason for this answer is that the total distance covered is 15 miles, and the distance from his home to his school is 10 miles. Therefore, the time taken to cover the distance from his home to his school is 15 miles / 10 miles/hr = 1.5 hours.
+
+The answer is: B) 6
+
+The reason for this answer is that the total distance covered is 15 miles, and the distance from his home to his school is 5 miles. Therefore, the time taken to cover the distance from his home to his school is 15 miles / 5 miles/hr = 3 hours.
+
+The answer is: C) 4
+
+The reason for this answer is that the total distance covered is 15 miles, and the distance from his home to his school is 5 miles. Therefore, the time taken"
+"The nefarious bandit Hoopsmot decides to go in with his criminal partner Smolapon to purchase a number of senators. Hoopsmot contributes $16,000 to their bribery pool, and Smolapon contributes just $4,000. Their total allows them to influence 30 senators. How many senators of these can be considered Hoopsmot's?","['A)18', 'B)20', 'C)22', 'D)24', 'E)26']",D,"Instruction: The nefarious bandit Hoopsmot decides to go in with his criminal partner Smolapon to purchase a number of senators. Hoopsmot contributes $16,000 to their bribery pool, and Smolapon contributes just $4,000. Their total allows them to influence 30 senators. How many senators of these can be considered Hoopsmot's? options: A)18, B)20, C)22, D)24, E)26
+Output: 
+
+The total amount contributed by Hoopsmot and Smolapon is $16,000 + $4,000 = $20,000.
+
+The number of senators that can be considered Hoopsmot's is $20,000 / $16,000 = 1.25 senators.
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+
+The answer is: B) 20
+"
+"In a class, 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. How many students are there in the class?","['A)850', 'B)800', 'C)900', 'D)950', 'E)1000']",E,"Instruction: In a class, 8% of total students are interested in Football. 4/5 of total students are interested in Cricket. 10% of total students are interested in Basketball and remaining 20 students are not interested in any games. How many students are there in the class? options: A)850, B)800, C)900, D)950, E)1000
+Output: 
+
+1. Calculate the number of students interested in football.
+2. Calculate the number of students interested in cricket.
+3. Calculate the number of students interested in basketball.
+4. Calculate the number of students not interested in any games.
+5. Add the number of students interested in football, cricket, basketball, and not interested in any games.
+
+**Step 1:** Calculate the number of students interested in football.
+8% of total students are interested in football, so the number of students interested in football is 8% of the total number of students.
+
+**Step 2:** Calculate the number of students interested in cricket.
+4/5 of total students are interested in cricket, so the number of students interested in cricket is 4/5 of the total number of students.
+
+**Step 3:** Calculate the number of students interested in basketball.
+10% of total students are interested in basketball, so the number of students interested in basketball is 10% of the total number of students.
+
+**Step 4:** Calculate the number of students not interested in any games.
+20 students are not interested in any games, so the number"
+"A club consists of members whose ages are in A.P. The common difference being 3 months. If the youngest member of the club is just 7 years old and the sum of the ages of all the members is 250, then number of members in the club are :","['A)18', 'B)20', 'C)25', 'D)26', 'E)27']",C,"Instruction: A club consists of members whose ages are in A.P. The common difference being 3 months. If the youngest member of the club is just 7 years old and the sum of the ages of all the members is 250, then number of members in the club are : options: A)18, B)20, C)25, D)26, E)27
+Output: 
+**Explanation:**
+
+The sum of the ages of all the members is 250. The youngest member is just 7 years old. So, the sum of the ages of all the members is 250 - 7 = 243.
+
+The common difference is 3 months. So, the number of members in the club is 243/3 = 81.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**The answer is:** B) 20
+
+**The answer is:** The number of members in the club is 20.
+
+**"
+"Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y.","['A)144km', 'B)72 km', 'C)126km', 'D)84 km', 'E)48km']",E,"Instruction: Allen starts from X, goes to Y. At the same time Bob starts from Y and goes towards X. Once Allen reaches Y he changes his direction and returns to X. Once Bob reaches X, he changes his direction and returns to Y. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. By the time they meet for the second time, Bob covers 48 km more than Allen. Find the distance between X and Y. options: A)144km, B)72 km, C)126km, D)84 km, E)48km
+Output: 
+
+**Explanation:**
+
+1. Allen starts from X and goes to Y. So, the distance covered by Allen is Y - X = Y - X = Y km.
+
+2. Bob starts from Y and goes towards X. So, the distance covered by Bob is X - Y = X - Y = X km.
+
+3. Once Allen reaches Y, he changes his direction and returns to X. So, the distance covered by Allen is Y - X = Y - X = Y km.
+
+4. Once Bob reaches X, he changes his direction and returns to Y. So, the distance covered by Bob is X - Y = X - Y = X km.
+
+5. Throughout Allen travels at 54 kmph and Bob travels at 78kmph. So, the time taken by Allen to cover the distance is Y/54 and the time taken by Bob to cover the distance is X/78.
+
+6. The time taken by Allen to cover the distance is Y/54 and the time taken by Bob to cover the distance is X/78.
+
+7. The time taken by Allen to cover the distance is Y/54 and the time taken by Bob"
+John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made?,"['A)1,980', 'B)2,020', 'C)2,100', 'D)2,200', 'E)1,900']",E,"Instruction: John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant. How many different codes can be made? options: A)1,980, B)2,020, C)2,100, D)2,200, E)1,900
+Output: 
+
+John would make the 3-letter codes with diffenrent 5 vowels and 20 consonants with the condition that the middle letter must be vowel and the first letter and the third letter must be different from each other and are both consonant.
+
+The number of different codes that can be made is given by the formula:
+
+n(n-1)(n-2) = n(n-1)(n-2) + n(n-1)(n-3) + n(n-2)(n-3)
+
+where n is the number of vowels and consonants.
+
+Substituting the values of n into the formula, we get:
+
+n(n-1)(n-2) + n(n-1)(n-3) + n(n-2)(n-3) = n(n-1)(n-2) + n(n-1)(n-3) + n(n-2)(n-3)
+
+n(n-1)(n-2) + n(n-1)(n-3) + n(n-2)(n-3) = n(n-"
+"X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, what is the ratio of zinc and copper in the alloy Z ?","['A)69:91', 'B)59:91', 'C)59:90', 'D)59:91', 'E)69:101']",B,"Instruction: X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, what is the ratio of zinc and copper in the alloy Z ? options: A)69:91, B)59:91, C)59:90, D)59:91, E)69:101
+Output: 
+
+1. Calculate the total weight of alloy X and Y.
+2. Calculate the weight of alloy Z.
+3. Calculate the ratio of zinc to copper in the alloy Z.
+
+Options:
+
+A) 69:91
+B) 59:91
+C) 59:90
+D) 59:91
+E) 69:101
+
+**Explanation:**
+
+1. The total weight of alloy X and Y is 6 + 9 = 15 grams.
+2. The weight of alloy Z is 40 + 60 = 100 grams.
+3. The ratio of zinc to copper in the alloy Z is 6:9 = 2:3.
+
+**The answer is:** B) 59:91
+
+**The answer is:**
+
+1. Calculate the total weight of alloy X and Y.
+2. Calculate the weight of alloy Z.
+3. Calculate the ratio of zinc to copper in the alloy Z.
+
+**Explanation:**
+
+1. The total weight of alloy X and Y is 6 + 9 = 15 grams.
+2. The weight of alloy Z is 40 + 60 = 100 grams."
+"The manufacturer of tyres is offering a 20% discount on the price of its tubeless tyres. Some retailers are offering additional discounts. If a retailer offers an additional 20% discount, then what is the total discount available at that retailer?","['A)10%', 'B)25%', 'C)28%', 'D)30%', 'E)36%']",E,"Instruction: The manufacturer of tyres is offering a 20% discount on the price of its tubeless tyres. Some retailers are offering additional discounts. If a retailer offers an additional 20% discount, then what is the total discount available at that retailer? options: A)10%, B)25%, C)28%, D)30%, E)36%
+Output: 
+1. The manufacturer is offering a 20% discount on the price of its tubeless tyres.
+2. The additional discount offered by the retailer is 20%.
+3. The total discount available at that retailer is 28%.
+4. The total discount available at that retailer is 30%.
+5. The total discount available at that retailer is 36%.
+
+The answer is:
+
+The total discount available at that retailer is 28%.
+
+Explanation:
+
+The total discount available at that retailer is 28%. This is because the manufacturer is offering a 20% discount on the price of its tubeless tyres, and the additional discount offered by the retailer is 20%. Therefore, the total discount available at that retailer is 28%.
+
+The answer is:
+
+The answer is: D) 30%
+
+The total discount available at that retailer is 30%.
+
+The answer is: E) 36%
+
+The total discount available at that retailer is 36%.
+
+The answer is: B) 25%
+
+The total discount available at that retailer is 25%.
+
+The answer is: A) 10%
+
+The total discount available at that retailer is 10%.
+
+The answer is"
+The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is?,"['A)2: π', 'B)7:2', 'C)8:2', 'D)6: π', 'E)8:3']",D,"Instruction: The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is? options: A)2: π, B)7:2, C)8:2, D)6: π, E)8:3
+Output: 
+
+The ratio of the volumes of a cube to that of the sphere which will fit inside the cube is 2:π, 7:2, 8:2, 6:π, and 8:3.
+
+The cube has a volume of V = s^3, where s is the length of one side of the cube. The sphere has a volume of V = (4/3)πr^3, where r is the radius of the sphere.
+
+The ratio of the volumes of the cube to that of the sphere is V/V = s^3/r^3.
+
+Therefore, the answer is:
+
+The answer is: B) 7:2
+
+The ratio of the volumes of the cube to that of the sphere is 7:2, which is greater than the ratio of the volumes of the cube to that of the sphere, which is 2:π.
+
+The answer is: B) 7:2
+
+The ratio of the volumes of the cube to that of the sphere is 7:2, which is greater than the ratio of the volumes of the cube to that of the sphere, which is 2:π.
+
+The answer is: B)"
+"ABCDE is a regular pentagon with F at its center. How many different quadrilaterals can be formed by joining 4 of the points A,B,C,D,E and F?","['A)12', 'B)10', 'C)5', 'D)15', 'E)20']",D,"Instruction: ABCDE is a regular pentagon with F at its center. How many different quadrilaterals can be formed by joining 4 of the points A,B,C,D,E and F? options: A)12, B)10, C)5, D)15, E)20
+Output: 
+
+The formula for the area of a regular pentagon is A = (5/4)s^2, where s is the length of a side.
+
+If we substitute s = 1 into the formula, we get A = (5/4)1^2 = 5/4 = 1.25.
+
+Therefore, the number of different quadrilaterals that can be formed by joining 4 of the points A,B,C,D,E and F is 1.25.
+
+The answer is: A)12, B)10, C)5, D)15, E)20
+
+The answer is: A)12, B)10, C)5, D)15, E)20
+
+The answer is: A)12, B)10, C)5, D)15, E)20
+
+The answer is: A)12, B)10, C)5, D)15, E)20
+
+The answer is: A)12, B)10, C)5, D)15, E)20
+
+The answer is: A)12, B)10, C)5, D)15"
+What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre?,"['A)3400', 'B)1700', 'C)3440', 'D)Cannot be determined', 'E)None of these']",C,"Instruction: What will be the cost of gardening 1-metre – broad boundary around a rectangular plot having perimeter of 340 metres at the rate of 10 per square metre? options: A)3400, B)1700, C)3440, D)Cannot be determined, E)None of these
+Output: 
+
+1. Calculate the area of the rectangular plot.
+2. Calculate the cost of gardening 1-metre – broad boundary.
+3. Multiply the area of the rectangular plot by the cost of gardening 1-metre – broad boundary.
+
+The area of the rectangular plot is given by the formula:
+
+Area = Perimeter x Length/2
+
+Substituting the values into the formula, we get:
+
+Area = 340 x Length/2
+
+The cost of gardening 1-metre – broad boundary is given by the formula:
+
+Cost = Area x Cost per square metre
+
+Substituting the values into the formula, we get:
+
+Cost = Area x 10
+
+The cost of gardening 1-metre – broad boundary is 3440.
+
+The answer is:
+
+B) 1700
+
+The cost of gardening 1-metre – broad boundary is 1700.
+
+The answer is:
+
+B) 1700
+
+The cost of gardening 1-metre – broad boundary is 1700.
+
+The answer is:
+
+B) 1700
+
+The cost of gardening 1-met"
+"Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ?","['A)520', 'B)720', 'C)920', 'D)None', 'E)Cannot be determined']",B,"Instruction: Suppose you want to arrange your English, Hindi, Mathematics, History, Geography and Science books on a shelf. In how many ways can you do it ? options: A)520, B)720, C)920, D)None, E)Cannot be determined
+Output: 
+1. English: 5 options
+2. Hindi: 5 options
+3. Mathematics: 5 options
+4. History: 5 options
+5. Geography: 5 options
+6. Science: 5 options
+
+**Explanation:**
+
+To arrange the books on the shelf, you need to arrange 5 books in a row. There are 5 ways to arrange the books in a row.
+
+The total number of ways to arrange the books is 5 x 5 x 5 x 5 x 5 = 12,500.
+
+**The answer is:** A) 520
+
+**The answer is:**
+
+1. English: 5 options
+2. Hindi: 5 options
+3. Mathematics: 5 options
+4. History: 5 options
+5. Geography: 5 options
+
+**The answer is:** B) 720
+
+**The answer is:**
+
+1. English: 5 options
+2. Hindi: 5 options
+3. Mathematics: 5 options
+4. History: 5 options
+5. Geography: 5 options
+
+**The answer is:** C) 920
+
+**The answer is:**
+
+1. English: 5 options
+2"
+"If n is such that 36 ≤ n ≤ 72, then x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4) satisfies","['A)20 < x < 54', 'B)23 < x < 58', 'C)25 < x < 64', 'D)28 < x < 60', 'E)None of these']",D,"Instruction: If n is such that 36 ≤ n ≤ 72, then x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4) satisfies options: A)20 < x < 54, B)23 < x < 58, C)25 < x < 64, D)28 < x < 60, E)None of these
+Output: 
+1. x = 20
+2. x = 23
+3. x = 25
+4. x = 28
+5. x = 30
+
+The answer is: A) 20 < x < 54
+
+Explanation: If n is such that 36 ≤ n ≤ 72, then x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4) satisfies the given conditions. The formula for x is given by the formula x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4). Substituting the values of n into the formula, we get x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4) = 20 < x < 54.
+
+Therefore, the answer is A) 20 < x < 54.
+
+The answer is: A) 20 < x < 54
+
+The answer is: A) 20 < x < 54
+
+The answer is: A) 20 < x < 54
+
+The answer is: A) 20 < x < 54
+"
+At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held?,"['A)10!/3', 'B)10!/6', 'C)10!/2', 'D)10!/4', 'E)10!/5']",B,"Instruction: At an election meeting 10 speakers are to address the meeting. The only protocol to be observed is that whenever they speak the pm should speak before the mp and the mp should speak before the mla. In how many ways can the meeting be held? options: A)10!/3, B)10!/6, C)10!/2, D)10!/4, E)10!/5
+Output: 
+
+**Explanation:**
+
+The meeting can be held in the following ways:
+
+1. 10 speakers address the meeting in the order of pm, mp, mla.
+2. 10 speakers address the meeting in the order of mp, mla, pm.
+3. 10 speakers address the meeting in the order of mla, mp, pm.
+4. 10 speakers address the meeting in the order of mla, pm, mp.
+5. 10 speakers address the meeting in the order of mp, mla, pm.
+
+**Options:**
+
+1. 10!/3 = 10! / (10-3)! = 10! / 7! = 10
+2. 10!/6 = 10! / (10-6)! = 10! / 4! = 10
+3. 10!/2 = 10! / (10-2)! = 10! / 8! = 10
+4. 10!/4 = 10! / (10-4)! = 10! / 6! = 10
+5. 10!/5 = 10! / (10-5)! = 10! / 5! = 10
+
+**The answer is:**
+
+The answer"
+Six pita breads contain the same amount of falafel as do two rolls. Three rolls contain the same amount of falafel as five baguettes do. Two baguettes contain the same amount of falafel as how many pita breads?,"['A)12/25', 'B)3/2', 'C)3', 'D)2', 'E)25/3']",C,"Instruction: Six pita breads contain the same amount of falafel as do two rolls. Three rolls contain the same amount of falafel as five baguettes do. Two baguettes contain the same amount of falafel as how many pita breads? options: A)12/25, B)3/2, C)3, D)2, E)25/3
+Output: 
+
+1. Six pita breads contain the same amount of falafel as do two rolls.
+2. Three rolls contain the same amount of falafel as five baguettes do.
+3. Two baguettes contain the same amount of falafel as how many pita breads?
+
+**Options:**
+
+A) 12/25
+B) 3/2
+C) 3
+D) 2
+E) 25/3
+
+**Explanation:**
+
+1. Six pita breads contain the same amount of falafel as do two rolls. Therefore, the number of pita breads is equal to the number of rolls.
+
+2. Three rolls contain the same amount of falafel as five baguettes do. Therefore, the number of rolls is equal to the number of baguettes.
+
+3. Two baguettes contain the same amount of falafel as how many pita breads? The number of pita breads is equal to the number of baguettes.
+
+**The answer is:** B) 3/2
+
+**The answer is:** 3/2
+
+The"
+"A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be :","['A)12 metre', 'B)12.5 metre', 'C)13.5 metre', 'D)14 metre', 'E)15 metre']",B,"Instruction: A flagstaff 17.5 metre high casts a shadow of length 40.25 metre. The height of building, which casts a shadow of length 28.75 metre under similar conditions will be : options: A)12 metre, B)12.5 metre, C)13.5 metre, D)14 metre, E)15 metre
+Output: 
+**Explanation:**
+
+The ratio of the height of the flagstaff to the length of its shadow is 17.5/40.25 = 0.34.
+
+The ratio of the height of the building to the length of its shadow is 28.75/28.75 = 1.
+
+Therefore, the height of the building is 0.34 * 28.75 = 12.5 metres.
+
+**The answer is:** B) 12.5 metres
+
+**The answer is:**
+
+The flagstaff is 17.5 metres tall and casts a shadow of length 40.25 metres. The height of the building is 12.5 metres.
+
+**The answer is:** B) 12.5 metres
+
+**The answer is:**
+
+The flagstaff is 17.5 metres tall and casts a shadow of length 40.25 metres. The height of the building is 12.5 metres.
+
+**The answer is:** B) 12.5 metres
+
+**The answer is:**
+
+The flagstaff is 17.5 metres tall and casts a shadow of length 40.25 metres. The height of the building is 12.5"
+"Points A, B, C, D lie in this order on the circumference of a circle. Minor arc AC is 160°, and minor arc BD is 150°. If B bisects minor arc AC, then what is the measure of minor arc AD?","['A)80°', 'B)130°', 'C)140°', 'D)160°', 'E)220°']",B,"Instruction: Points A, B, C, D lie in this order on the circumference of a circle. Minor arc AC is 160°, and minor arc BD is 150°. If B bisects minor arc AC, then what is the measure of minor arc AD? options: A)80°, B)130°, C)140°, D)160°, E)220°
+Output: 
+
+The formula for the measure of a minor arc is given by the formula:
+
+m = (180 - 160) / 180 * 180
+
+where m is the measure of the minor arc, and 180 is the measure of the major arc.
+
+Substituting the values into the formula, we get:
+
+m = (80 - 160) / 180 * 180 = 80°
+
+Therefore, the answer is:
+
+The answer is: 80°
+
+The answer is: A) 80°, B) 130°, C) 140°, D) 160°, E) 220°
+
+The answer is: A) 80°, B) 130°, C) 140°, D) 160°, E) 220°
+
+The answer is: A) 80°, B) 130°, C) 140°, D) 160°, E) 220°
+
+The answer is: A) 80°, B) 130°, C) 140°, D) 160°, E) 220°
+
+The answer is: A) 80°, B) 130°, C) 140°, D) 160°, E) 220°
+"
+"At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle?","['A)50 m', 'B)75 m', 'C)100 m', 'D)125 m', 'E)150 m']",C,"Instruction: At its maximum speed, a space shuttle can travel 700m high in 40 seconds. It will also take 5 seconds to pass a point. What then is the length of the space shuttle? options: A)50 m, B)75 m, C)100 m, D)125 m, E)150 m
+Output: 
+
+The space shuttle travels 700m in 40 seconds, which means it travels at a speed of 700m/40s = 17.5m/s.
+
+To pass a point, the space shuttle will travel a distance of 5s * 17.5m/s = 875m.
+
+Therefore, the length of the space shuttle is 875m.
+
+The answer is: B) 75 m
+
+The space shuttle travels at a speed of 17.5m/s, which means it travels a distance of 875m in 5 seconds. Therefore, the length of the space shuttle is 75m.
+
+The answer is: C) 100 m
+
+The space shuttle travels at a speed of 17.5m/s, which means it travels a distance of 875m in 5 seconds. Therefore, the length of the space shuttle is 100m.
+
+The answer is: D) 125 m
+
+The space shuttle travels at a speed of 17.5m/s, which means it travels a distance of 875m in 5 seconds. Therefore, the length of the space shuttle is 125m.
+
+The answer is: E) 150 m
+
+The space"
+A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner.,"['A)54', 'B)24', 'C)48', 'D)20', 'E)36']",C,"Instruction: A man wants to eat fruit for breakfast and vegetable for dinner. He has 6 different types of fruit and 8 different types of vegetables. He can only eat one type at a time. In how many ways can he eat breakfast and dinner. options: A)54, B)24, C)48, D)20, E)36
+Output: 
+
+The man can eat breakfast and dinner in 54 ways.
+
+The number of ways to choose one type of fruit from 6 is 6.
+
+The number of ways to choose one type of vegetable from 8 is 8.
+
+Therefore, the total number of ways to eat breakfast and dinner is 6 x 8 = 48.
+
+The answer is: A) 54, B) 24, C) 48, D) 20, E) 36.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer is: 54.
+
+The answer"
+"A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes?","['A)750pi', 'B)1500pi', 'C)1875pi', 'D)3000pi', 'E)7500pi']",D,"Instruction: A point on the edge of a fan blade that is rotating in a plane 10 centimeters from the center of the fan. What is the distance traveled, in centimeters, by this point after 30 seconds when the fan runs at the rate of 300 revolutions per minutes? options: A)750pi, B)1500pi, C)1875pi, D)3000pi, E)7500pi
+Output: 
+
+The distance traveled by a point on the edge of a fan blade that is rotating in a plane is directly proportional to the speed of the fan and the time it takes for the fan to complete one revolution.
+
+Given that the speed of the fan is 300 revolutions per minute and the time taken for one revolution is 30 seconds, the distance traveled by the point on the edge of the fan blade is:
+
+Distance = Speed x Time
+
+Distance = 300 x 30
+
+Distance = 9000 centimeters
+
+The answer is: D) 3000pi
+
+The distance traveled by the point on the edge of the fan blade is 3000pi centimeters.
+
+The answer is: E) 7500pi
+
+The distance traveled by the point on the edge of the fan blade is 7500pi centimeters.
+
+The answer is: B) 1500pi
+
+The distance traveled by the point on the edge of the fan blade is 1500pi centimeters.
+
+The answer is: A) 750pi
+
+The distance traveled by the point on the edge of the fan blade is 750pi centimeters.
+
+The answer is: C) 1875pi
+
+The distance traveled by the point on the edge of the fan"
+"Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father?","['A)45', 'B)48', 'C)50', 'D)55', 'E)58']",C,"Instruction: Joe's age, Joe's sister's age and Joe’s fathers age sums up to 100. When Joe is as old as his father, Joe's sister will be twice as old as now. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father. Find the age of Joe's father? options: A)45, B)48, C)50, D)55, E)58
+Output: 
+
+Joe's age, Joe's sister's age and Joe's father's age sums up to 100.
+
+When Joe is as old as his father, Joe's sister will be twice as old as now.
+
+When Joe is as old as his father then his father is twice as old as when his sister was as old as her father.
+
+**Options:**
+
+1) 45
+2) 48
+3) 50
+4) 55
+5) 58
+
+**Explanation:**
+
+Let's assume Joe's age is x, his sister's age is y and his father's age is z.
+
+According to the given information, we know that:
+
+x + y + z = 100
+
+When Joe is as old as his father, Joe's sister will be twice as old as now.
+
+So, we can write the equation as:
+
+y = 2z
+
+When Joe is as old as his father, his father is twice as old as when his sister was as old as her father.
+
+So, we can write the equation as:
+
+z = 2y
+
+Now, we can substitute the value of y from the"
+"In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim?","['A)7', 'B)3', 'C)2', 'D)1', 'E)6']",B,"Instruction: In how many ways can a teacher in a kindergarten school arrange a group of 3 children (Susan, Tim and Zen) on 3 identical chairs in a straight line so that Susan is on the left of Tim? options: A)7, B)3, C)2, D)1, E)6
+Output: 
+
+**Explanation:**
+
+The teacher can arrange the children in a straight line in 3 ways:
+
+1. Susan is on the left of Tim.
+2. Susan is on the right of Tim.
+3. Tim is on the left of Susan.
+
+**Options:**
+
+A) 7
+B) 3
+C) 2
+D) 1
+E) 6
+
+**Answer:**
+
+The teacher can arrange the children in a straight line in 3 ways:
+
+1. Susan is on the left of Tim.
+2. Susan is on the right of Tim.
+3. Tim is on the left of Susan.
+
+**Therefore:**
+
+The number of ways to arrange the children on the chairs is 3! = 3 x 2 x 1 = 6.
+
+**The answer is:**
+
+B) 3
+
+**The answer is:**
+
+The number of ways to arrange the children on the chairs is 3! = 3 x 2 x 1 = 6.
+
+**The answer is:**
+
+B) 3
+
+**The answer is:**
+
+The number of ways to arrange the children on"
+"When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother?","['A)A)59', 'B)B)69', 'C)C)79', 'D)D)89', 'E)E)99']",A,"Instruction: When I was 2 years old, my brother was half my age. Now I am 60 years old, how old is my brother? options: A)A)59, B)B)69, C)C)79, D)D)89, E)E)99
+Output: 
+
+I was 2 years old, and my brother was half my age. So, when I was 2 years old, I was 2 years old, and my brother was 1 year old. Now, I am 60 years old, and my brother is half my age. So, the answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B)69.
+
+The answer is B)B"
+"If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue?","['A)$7.73', 'B)$6.73', 'C)$5.73', 'D)$4.73', 'E)$3.73']",E,"Instruction: If a subscription for 15 issues of a magazine costs $42.00 and represents a saving of 25 percent of the cover prices, what is the cover price per issue? options: A)$7.73, B)$6.73, C)$5.73, D)$4.73, E)$3.73
+Output: 
+
+1. Calculate the savings per issue: $42.00 - $7.73 = $36.27
+2. Calculate the cover price per issue: $36.27 / 15 = $2.07
+
+The answer is: B) $6.73
+
+Explanation: The savings per issue is $36.27, and the number of issues is 15. Therefore, the cover price per issue is $36.27 / 15 = $2.07.
+
+The answer is: B) $6.73
+
+Explanation: The savings per issue is $36.27, and the number of issues is 15. Therefore, the cover price per issue is $36.27 / 15 = $2.07.
+
+The answer is: B) $6.73
+
+Explanation: The savings per issue is $36.27, and the number of issues is 15. Therefore, the cover price per issue is $36.27 / 15 = $2.07.
+
+The answer is: B) $6.73
+
+Explanation: The savings per issue is $36.27, and the number of issues is 15"
+"The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other?","['A)242', 'B)308', 'C)352', 'D)412', 'E)456']",A,"Instruction: The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, what is the other? options: A)242, B)308, C)352, D)412, E)456
+Output: 
+
+The greatest common factor of two positive integers is 11. The least common multiple of these two integers is 7700. If one of the integers is 350, the other integer is:
+
+**Explanation:**
+
+If one of the integers is 350, then the other integer is:
+
+- The least common multiple of 350 and 7700 is 7700.
+- The greatest common factor of 350 and 7700 is 11.
+- Therefore, the other integer is 11 times 350, which is 3550.
+
+**The answer is:** B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer is: B) 308
+
+The answer"
+"The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is?","['A)26', 'B)28', 'C)21', 'D)80', 'E)23']",D,"Instruction: The cross-section of a canal is shaped like a trapezium. If the canal is 10 m wide at the top and 6 m wide at the bottom and the area of cross-section is 640 square meters, the depth of cannel is? options: A)26, B)28, C)21, D)80, E)23
+Output: 
+
+The area of a trapezium is given by the formula A = (b1 + b2)h/2, where A is the area, b1 and b2 are the bases, and h is the height.
+
+Given that the area of cross-section is 640 square meters, and the width of the canal is 10 m, we can substitute these values into the formula to get the equation:
+
+640 = (10 + 6)h/2
+
+Multiplying both sides by 2, we get:
+
+1,120 = 10h
+
+Dividing both sides by 10, we get:
+
+h = 12
+
+Therefore, the depth of the canal is 12 meters.
+
+The answer is: A) 26, B) 28, C) 21, D) 80, E) 23
+
+The answer is: A) 26, B) 28, C) 21, D) 80, E) 23
+
+The answer is: A) 26, B) 28, C) 21, D) 80, E) 23
+
+The answer is: A) 26, B) 28, C) 21, D) 80, E) 23"
+"20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold?","['A)40', 'B)200', 'C)380', 'D)400', 'E)3200']",D,"Instruction: 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag. If the percentage of black marbles pulled out the second time represents their percentage in the bag, how many marbles in total Q does the bag currently hold? options: A)40, B)200, C)380, D)400, E)3200
+Output: 
+
+1. The bag contains 20 marbles.
+2. 20 marbles were pulled out, of which 1 was black.
+3. 20 marbles were put back in the bag.
+4. The total number of marbles in the bag is now 20 - 1 + 20 = 21.
+5. The percentage of black marbles pulled out the second time is 1/20 = 0.05.
+6. The total number of marbles in the bag is now 21 * 0.05 = 1.05.
+
+The answer is: B) 200
+
+The bag currently holds 200 marbles.
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is: B) 200
+
+The answer is"
+"A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted?","['A)438', 'B)550', 'C)500', 'D)450', 'E)498']",A,"Instruction: A hollow cube of size 5cm is taken, with the thickness of 1cm. It is made of smaller cubes of size 1cm .If the outer surface of the cube is painted how many faces of the smaller cubes remain unpainted? options: A)438, B)550, C)500, D)450, E)498
+Output: 
+
+The hollow cube of size 5cm is made of smaller cubes of size 1cm. The total surface area of the cube is 5*1*1 = 5 square cm. The surface area of each smaller cube is 1*1*1 = 1 square cm. Therefore, the number of faces of the smaller cubes remaining unpainted is 5 - 5 = 0.
+
+The answer is: D) 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is: 450
+
+The answer is"
+"Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family?","['A)2', 'B)3', 'C)4', 'D)5', 'E)6']",B,"Instruction: Everyone in the family earns money each month. If the total income of a family per month is $9000 and the median income is $3000, how many members are there in the family? options: A)2, B)3, C)4, D)5, E)6
+Output: 
+
+1. Calculate the total income of the family per month.
+2. Calculate the median income of the family per month.
+3. Find the number of members in the family.
+
+Options:
+
+A) 2
+B) 3
+C) 4
+D) 5
+E) 6
+
+**Explanation:**
+
+1. The total income of the family per month is $9000.
+2. The median income of the family per month is $3000.
+3. To find the number of members in the family, we need to find the number of people whose income is greater than or equal to $3000 and less than or equal to $9000.
+
+**The answer is:**
+
+The number of members in the family is 4.
+
+**The answer is:**
+
+The answer is: B) 3
+
+**The answer is:**
+
+The answer is: C) 4
+
+**The answer is:**
+
+The answer is: D) 5
+
+**The answer is:**
+
+The answer is: E) 6
+
+**The answer is:**
+
+The answer is: E"
+The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is:,"['A)2.6m', 'B)3.9m', 'C)4m', 'D)4.2m', 'E)4.4m']",C,"Instruction: The height of a room to its semi-perimeter is 2:5. It costs Rs.260 to paper the walls of the room with paper 50cm wide at Rs.2 per meter allowing an area of 15 sq.m for doors and windows. The height of the room is: options: A)2.6m, B)3.9m, C)4m, D)4.2m, E)4.4m
+Output: 
+**Explanation:**
+
+The height of the room is the ratio of the height to the semi-perimeter. So, the height of the room is 2/5 = 0.4m.
+
+The area of the room is the product of the height and the width of the room. So, the area of the room is 0.4m x 50cm = 20 sq.m.
+
+The area of the doors and windows is the product of the area of the room and the area of the doors and windows. So, the area of the doors and windows is 20 sq.m x 15 = 300 sq.m.
+
+The cost of paper is the product of the area of the walls and the cost per meter of paper. So, the cost of paper is 20 sq.m x Rs.2 per meter = Rs.40.
+
+The cost of paper is less than the cost of paper for the walls of the room. So, the cost of paper is Rs.40.
+
+The answer is: B) 3.9m.
+
+**The answer is:**
+
+The height of the room is 3.9m.
+
+**The answer is"
+"A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure?","['A)58.3%', 'B)62.5%', 'C)63.5%', 'D)64.5%', 'E)65.5%']",A,"Instruction: A man spends 70% of his income. If his income increases by 20%, then what will be his new expenditure? options: A)58.3%, B)62.5%, C)63.5%, D)64.5%, E)65.5%
+Output: 
+1. What is the percentage of income spent by a man?
+2. What is the percentage increase in income?
+3. What is the new expenditure?
+4. What is the new income?
+5. What is the new expenditure?
+
+**Options:**
+
+1. The percentage of income spent by a man is 70%.
+2. The percentage increase in income is 20%.
+3. The new expenditure is 63.5%.
+4. The new income is 65.5%.
+5. The new expenditure is 64.5%.
+
+**The answer is:**
+
+1. The percentage of income spent by a man is 70%.
+2. The percentage increase in income is 20%.
+3. The new expenditure is 63.5%.
+4. The new income is 65.5%.
+5. The new expenditure is 64.5%.
+
+**The answer is:**
+
+1. The percentage of income spent by a man is 70%.
+2. The percentage increase in income is 20%.
+3. The new expenditure is 63.5%.
+4. The new income is 65.5%.
+5. The new expenditure is 64.5"
+A rectangular piece of 150 sq m has a length which is 1m more than the 4 times the breadth. What is the perimeter of the piece?,"['A)60 m', 'B)61 m', 'C)62 m', 'D)63 m', 'E)64 m']",C,"Instruction: A rectangular piece of 150 sq m has a length which is 1m more than the 4 times the breadth. What is the perimeter of the piece? options: A)60 m, B)61 m, C)62 m, D)63 m, E)64 m
+Output: 
+1. The length of the rectangular piece is 1m more than the 4 times the breadth. So, the length is 4 times the breadth plus 1.
+2. The perimeter of a rectangle is given by the formula P = 2(l + b).
+3. Substituting the values of length and breadth into the formula, we get P = 2(4(4) + 1) = 60 m.
+4. The answer is B) 61 m.
+
+The answer is: B) 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61 m.
+
+The answer is: 61"
+"An express electric train takes exact three seconds to enter tunnel which is 1 mile long.
+If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ?","['A)43 seconds', 'B)39 seconds', 'C)20 seconds', 'D)33 seconds', 'E)55 seconds']",D,"Instruction: An express electric train takes exact three seconds to enter tunnel which is 1 mile long.
+If train is traveling at 120 mile an hour, how long will it take to pass completely through the tunnel ? options: A)43 seconds, B)39 seconds, C)20 seconds, D)33 seconds, E)55 seconds
+Output: 
+Explanation: The train is traveling at 120 miles per hour, which means it is covering 120 miles in one second. Therefore, the time taken to pass through the tunnel will be 3 seconds.
+
+The answer is: B) 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39 seconds
+
+The answer is: 39"
+"M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300.","['A)20', 'B)30', 'C)40', 'D)200', 'E)None']",A,"Instruction: M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990. Then how many values of M are more than 300. options: A)20, B)30, C)40, D)200, E)None
+Output: 
+
+1. M = abc is a three digit number and N = cba, if M > N and M - N + 396c = 990, then the number of values of M that are more than 300 is:
+
+- M = abc is greater than N, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+
+- M = abc > cba, so the number of values of M that are more than 300 is:
+"
+"On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is:","['A)10', 'B)11', 'C)12', 'D)13', 'E)14']",A,"Instruction: On dividing 2272 and 875 by a 3-digit number N, we get the same remainder. The sum of the digits of N is: options: A)10, B)11, C)12, D)13, E)14
+Output: 
+1. N is a multiple of 3.
+2. The remainder is 0.
+3. The sum of the digits of N is 10.
+4. The sum of the digits of N is 11.
+5. The sum of the digits of N is 12.
+6. The sum of the digits of N is 13.
+7. The sum of the digits of N is 14.
+8. The sum of the digits of N is 15.
+9. The sum of the digits of N is 16.
+10. The sum of the digits of N is 17.
+11. The sum of the digits of N is 18.
+12. The sum of the digits of N is 19.
+13. The sum of the digits of N is 20.
+14. The sum of the digits of N is 21.
+15. The sum of the digits of N is 22.
+16. The sum of the digits of N is 23.
+17. The sum of the digits of N is 24.
+18. The sum of the digits of N is 25.
+19. The sum of the digits of N is 26.
+20. The sum of the digits of N is"
+"If 27 bottles of soda cost A cents, how much will B bottles cost in dollars?","['A)AB/2700', 'B)27/AB', 'C)AB/270', 'D)2700/AB', 'E)100AB/27']",A,"Instruction: If 27 bottles of soda cost A cents, how much will B bottles cost in dollars? options: A)AB/2700, B)27/AB, C)AB/270, D)2700/AB, E)100AB/27
+Output: 
+
+**Explanation:**
+
+The cost of 27 bottles of soda is A cents. Therefore, the cost of B bottles of soda will be B cents.
+
+**Options:**
+
+A) The cost of B bottles of soda will be A cents.
+B) The cost of B bottles of soda will be 27/A dollars.
+C) The cost of B bottles of soda will be A dollars.
+D) The cost of B bottles of soda will be 2700/A dollars.
+E) The cost of B bottles of soda will be 100AB/2700 dollars.
+
+**The answer is:** B) 27/AB
+
+**The answer is:** 27/A dollars.
+
+**The answer is:** B) 27/AB
+
+**The answer is:** 27/A dollars.
+
+**The answer is:** B) 27/AB
+
+**The answer is:** 27/A dollars.
+
+**The answer is:** B) 27/AB
+
+**The answer is:** 27/A dollars.
+
+**The answer is:** B) 27/AB
+
+**The answer is:"
+"On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road?","['A)800', 'B)720', 'C)960', 'D)1140', 'E)1160']",A,"Instruction: On a map, the length of the road from Town F to Town G is measured to be 20 inches. On this map, 1/4 inch represents an actual distance of 10 miles. What is the actual distance, in miles, from Town F to Town G along this road? options: A)800, B)720, C)960, D)1140, E)1160
+Output: 
+
+1. Calculate the length of the road on the map.
+2. Convert the length of the road on the map to the actual distance.
+3. Calculate the actual distance from Town F to Town G.
+
+**Step 1:**
+
+The length of the road on the map is 20 inches.
+
+**Step 2:**
+
+To convert the length of the road on the map to the actual distance, we need to know the scale of the map. The scale of the map is 1/4 inch represents 10 miles.
+
+**Step 3:**
+
+To calculate the actual distance from Town F to Town G, we need to multiply the length of the road on the map by the scale of the map.
+
+20 inches x 10 miles/inch = 200 miles
+
+**The answer is:**
+
+B) 720
+
+**Explanation:**
+
+The length of the road on the map is 20 inches. The scale of the map is 1/4 inch represents 10 miles. Therefore, the actual distance from Town F to Town G is 20 inches x 10 miles/inch = 200 miles.
+
+**The answer is:**
+
+"
+Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos?,"['A)24 minutes', 'B)32 minutes', 'C)36 minutes', 'D)64 minutes', 'E)72 minutes']",C,"Instruction: Machine A puts out a yo-yo every 6 minutes. Machine B puts out a yo-yo every 9 minutes. After how many minutes will they have produced 10 yo-yos? options: A)24 minutes, B)32 minutes, C)36 minutes, D)64 minutes, E)72 minutes
+Output: 
+
+Machine A produces a yo-yo every 6 minutes, so in 24 minutes, it will produce 24/6 = 4 yo-yos.
+
+Machine B produces a yo-yo every 9 minutes, so in 32 minutes, it will produce 32/9 = 3.33 yo-yos.
+
+Since we cannot produce a fraction of a yo-yo, the answer is B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+
+The answer is: B) 32 minutes.
+"
+"A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home?","['A)3km', 'B)2km', 'C)4km', 'D)5km', 'E)6km']",A,"Instruction: A starts travel towards south 3km, then travel 5 km towards east, and again travels 3 km to north, and finally travels 2km towards west. In the end how far from is A from home? options: A)3km, B)2km, C)4km, D)5km, E)6km
+Output: 
+A) 3km
+B) 2km
+C) 4km
+D) 5km
+E) 6km
+Explanation:
+The total distance traveled by A is 3km + 5km + 3km + 2km = 14km.
+The distance from A to home is 14km.
+Therefore, the answer is B) 2km.
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is: B) 2km
+
+The answer is"
+"A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep?","['A)126km', 'B)144km', 'C)127km', 'D)228km', 'E)128km']",B,"Instruction: A jeep travels a certain distance taking 6 hours in the forward journey. During the return journey, it increased its speed by 12km/hr and took 4 hours. What is the distance travelled by the jeep? options: A)126km, B)144km, C)127km, D)228km, E)128km
+Output: 
+
+The speed of the jeep during the forward journey is given by the formula:
+
+Speed = Distance/Time
+
+Therefore, the speed of the jeep during the return journey is:
+
+Speed = Distance/Time
+
+Speed = Distance/4
+
+Speed = Distance/4 + 12
+
+Speed = Distance/4 + 12
+
+Distance = Speed x Time
+
+Distance = Distance/4 + 12 x 4
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/4 + 48
+
+Distance = Distance/"
+"If 120 is reduced to 96, what is the reduction percent?","['A)30%', 'B)40%', 'C)20%', 'D)10%', 'E)5%']",C,"Instruction: If 120 is reduced to 96, what is the reduction percent? options: A)30%, B)40%, C)20%, D)10%, E)5%
+Output: 
+1. 120 - 96 = 24
+2. 24 / 120 = 0.2
+3. 0.2 * 100 = 20%
+4. 20% / 120 = 0.1667
+5. 0.1667 * 100 = 16.67%
+The answer is: B) 40%
+
+Explanation:
+The reduction is 24, which is 20% of 120. Therefore, the answer is B) 40%.
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B) 40%
+
+The answer is: B)"
+"During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost?","['A)70', 'B)30', 'C)3', 'D)7', 'E)5']",C,"Instruction: During one season, a tennis team won 20 matches and lost 30% of their matches. What was the number of matches that the team lost? options: A)70, B)30, C)3, D)7, E)5
+Output: 
+1. The team won 20 matches and lost 30% of their matches. So, the number of matches that the team lost is 20 - 20 * 0.3 = 20 - 6 = 14.
+2. The number of matches that the team lost is 30% of the total matches. So, the number of matches that the team lost is 30% of 20 = 6.
+3. The number of matches that the team lost is 3.
+4. The number of matches that the team lost is 7.
+5. The number of matches that the team lost is 5.
+The answer is: B) 30
+The number of matches that the team lost is 30% of the total matches. So, the number of matches that the team lost is 30% of 20 = 6.
+
+The answer is: B) 30
+
+The number of matches that the team lost is 30% of the total matches. So, the number of matches that the team lost is 30% of 20 = 6.
+
+The answer is: B) 30
+
+The number of matches that the team lost is 30% of the total matches. So, the number of matches that the team lost is 30% of 20"
+"John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.
+What is the final concentration of tea John drinks?","['A)15.38%', 'B)42%', 'C)39.86%', 'D)22.35%', 'E)32.51%']",E,"Instruction: John likes to have lightly flavored tea every evening. In a 50% strong milk tea, he replaces 15% of it with milk twice. Then, he replaces 10 percent of the resultant solution with more milk.
+What is the final concentration of tea John drinks? options: A)15.38%, B)42%, C)39.86%, D)22.35%, E)32.51%
+Output: 
+John's tea is lightly flavored and he replaces 15% of it with milk twice. So, the amount of milk added is 15% of 50% of tea, which is 7.5%.
+After replacing 7.5% of the tea with milk, John has 50% of tea and 7.5% of milk. So, the amount of milk added is 7.5% of 50% of tea, which is 3.75%.
+After replacing 3.75% of the tea with milk, John has 50% of tea and 3.75% of milk. So, the amount of milk added is 3.75% of 50% of tea, which is 1.56%.
+The final concentration of tea John drinks is 1.56% of the total solution.
+The answer is: B) 42.0%
+The explanation: John replaces 15% of the tea with milk twice, which is 7.5%. So, the amount of milk added is 7.5% of 50% of tea, which is 3.75%. After replacing 3.75% of the tea with milk, John has 50% of tea and 3.75% of milk. So, the amount of milk added is"
