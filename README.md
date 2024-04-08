@@ -10,3 +10,6 @@ This repository contains the code and example results for our project. This incl
 
 
 We also provide our LLM-generated (using quantized Gemma-7B) mathematical rationales within the data folder.
+
+
+All Phi 1.5 fine-tuned variants are available here: https://huggingface.co/rk68
