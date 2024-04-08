@@ -6,3 +6,6 @@ This repository contains the code and example results for our project. This incl
 - T5-Small (60M)
 - T5-Base (220M)
 - Phi 1.5 (1.3B)
+
+
+We also provide our LLM-generated (using quantized Gemma-7B) mathematical rationales within the data folder.
